@@ -6,6 +6,19 @@
 
 To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient.
 
+ - **OS:** Manjaro
+ - **DE:** Plasma
+ - **WM:** KWin
+ - **Terminal:** Konsole
+ - **Shell:** zsh + Oh My Zsh + Powerlevel10k
+ - **Terminal Font:** MesloLGS NF
+ - **System Font:** SF Pro Text
+ - **Bar/Panel:** Latte-Dock
+ - **File Manager:** Dolphin
+ - **Editor:** VS Code
+ - **Browser:** Firefox
+
+
 ## Important stuff
 
  - [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
