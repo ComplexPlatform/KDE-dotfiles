@@ -1,0 +1,8 @@
+//replace the corresponding lines on your kdeglobals.base file with the values below.
+
+[Colors:View]
+BackgroundNormal={color0}
+
+[WM]
+frame={color1}
+inactiveFrame={color0}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/marc/.config/wpg/wallpapers/alena-aenami-stay-1k.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151616",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151616",
+        "color1": "#334f56",
+        "color2": "#3f5f66",
+        "color3": "#655455",
+        "color4": "#47666d",
+        "color5": "#787577",
+        "color6": "#ca5859",
+        "color7": "#c4c4c4",
+        "color8": "#4f5050",
+        "color9": "#334f56",
+        "color10": "#3f5f66",
+        "color11": "#655455",
+        "color12": "#47666d",
+        "color13": "#787577",
+        "color14": "#ca5859",
+        "color15": "#c4c4c4"
+    }
+}
