@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="88.428551"
+   height="69.500061"
+   viewBox="0 0 88.428551 69.500064"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="frame.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="66.365892"
+     inkscape:cy="40.697134"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true" />
+  <defs
+     id="defs2" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(811.35712,-386.05533)">
+    <rect
+       y="431.34109"
+       x="-792.94641"
+       height="6"
+       width="2"
+       id="plain-hint-top-margin"
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.8509056" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.8509056"
+       id="plain-hint-bottom-margin"
+       width="2"
+       height="6"
+       x="-792.94641"
+       y="439.34109" />
+    <rect
+       y="437.34109"
+       x="-790.94641"
+       height="2"
+       width="6"
+       id="plain-hint-right-margin"
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.8509056" />
+    <rect
+       style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.8509056"
+       id="plain-hint-left-margin"
+       width="6"
+       height="2"
+       x="-798.94641"
+       y="437.34109" />
+    <rect
+       y="406.93039"
+       x="-770.19641"
+       height="18"
+       width="18"
+       id="plain-center"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+    <g
+       id="plain-right"
+       transform="translate(-11.375,0.3125)">
+      <rect
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         class="ColorScheme-ViewHover"
+         id="rect832"
+         width="18"
+         height="6"
+         x="406.61789"
+         y="734.82141"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         y="734.82141"
+         x="406.61789"
+         height="1"
+         width="18"
+         id="rect826"
+         class="ColorScheme-ButtonBackground"
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-1511.0178,0.3125)"
+       id="plain-left">
+      <rect
+         transform="rotate(90)"
+         y="734.82141"
+         x="406.61789"
+         height="6"
+         width="18"
+         id="rect849"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+      <rect
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         class="ColorScheme-ButtonBackground"
+         id="rect851"
+         width="18"
+         height="1"
+         x="406.61789"
+         y="734.82141"
+         transform="rotate(90)" />
+    </g>
+    <g
+       transform="rotate(-90,-755.35266,421.46164)"
+       id="plain-top">
+      <rect
+         transform="rotate(90)"
+         y="734.82141"
+         x="406.61789"
+         height="6"
+         width="18"
+         id="rect855"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+      <rect
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         class="ColorScheme-ButtonBackground"
+         id="rect857"
+         width="18"
+         height="1"
+         x="406.61789"
+         y="734.82141"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="plain-bottom"
+       transform="matrix(0,1,1,0,-1176.8143,1165.7518)">
+      <rect
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         class="ColorScheme-ViewHover"
+         id="rect861"
+         width="18"
+         height="6"
+         x="406.61789"
+         y="734.82141"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         y="734.82141"
+         x="406.61789"
+         height="1"
+         width="18"
+         id="rect863"
+         class="ColorScheme-ButtonBackground"
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.41421342;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+    </g>
+    <g
+       id="plain-topright"
+       transform="translate(-3.6607133,2.8571394)">
+      <rect
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         class="ColorScheme-ViewHover"
+         id="rect869"
+         width="6"
+         height="6"
+         x="-748.53571"
+         y="398.07324" />
+      <path
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ButtonBackground"
+         id="rect867"
+         d="m -748.53569,398.07325 v 1 h 5 v 5 h 1 v -6 z"
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+    </g>
+    <g
+       transform="matrix(-1,0,0,1,-1518.7321,2.8571394)"
+       id="plain-topleft">
+      <rect
+         y="398.07324"
+         x="-748.53571"
+         height="6"
+         width="6"
+         id="rect902"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+      <path
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         d="m -748.53569,398.07325 v 1 h 5 v 5 h 1 v -6 z"
+         id="path904"
+         class="ColorScheme-ButtonBackground"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,-3.660705,829.00364)"
+       id="plain-bottomright">
+      <rect
+         y="398.07324"
+         x="-748.53571"
+         height="6"
+         width="6"
+         id="rect908"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+      <path
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         d="m -748.53569,398.07325 v 1 h 5 v 5 h 1 v -6 z"
+         id="path910"
+         class="ColorScheme-ButtonBackground"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       transform="rotate(-180,-759.36606,414.50182)"
+       id="plain-bottomleft">
+      <rect
+         y="398.07324"
+         x="-748.53571"
+         height="6"
+         width="6"
+         id="rect914"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.2;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal" />
+      <path
+         style="opacity:0.85;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.66666663;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.8;paint-order:normal"
+         d="m -748.53569,398.07325 v 1 h 5 v 5 h 1 v -6 z"
+         id="path916"
+         class="ColorScheme-ButtonBackground"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

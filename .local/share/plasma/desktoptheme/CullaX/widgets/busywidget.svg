@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="130"
+   viewBox="0 0 130 130"
+   version="1.0"
+   width="130"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="busywidget.svg">
+  <defs
+     id="defs36" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1453"
+     inkscape:window-height="883"
+     id="namedview34"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="2.8292772"
+     inkscape:cx="-70.864887"
+     inkscape:cy="108.8455"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="194"
+     inkscape:window-y="85"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="-46.69,63.75"
+       orientation="0,1"
+       id="guide831"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="66.82,36.63"
+       orientation="1,0"
+       id="guide833"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4422"
+     transform="matrix(0.079592,0,0,0.079592,10.431639,34.47815)"
+     style="fill:#000055;fill-opacity:0.13963964;stroke-width:82.18199921" />
+  <g
+     id="g833">
+    <rect
+       style="fill:none;fill-opacity:0.1396;stroke-width:6.541"
+       y="2.34"
+       width="128"
+       height="128"
+       x="2.6"
+       id="rect4416" />
+    <ellipse
+       ry="55.77"
+       rx="52.75"
+       cy="66.34"
+       cx="66.6"
+       id="ring"
+       class="ColorScheme-ViewHover"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:currentColor;stroke-width:16.0025;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="qqa"
+       class="ColorScheme-Text"
+       d="m 66.13,2.569 c -5.62,0 -11.05,0.818 -16.2,2.317 l 1.78,6.834 2.25,8.65 c 3.87,-1.17 7.95,-1.8 12.17,-1.8 4.55,0 8.94,0.73 13.09,2.07 L 81.55,11.7 83.26,5.165 C 77.83,3.488 72.09,2.569 66.13,2.569 Z"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.00250053;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.00250053;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       class="ColorScheme-Text"
+       d="m 66.13,130.1 c -5.62,0 -11.05,-0.8 -16.2,-2.3 l 1.78,-6.8 2.25,-8.7 c 3.87,1.2 7.95,1.8 12.17,1.8 4.55,0 8.94,-0.7 13.09,-2.1 l 2.33,9 1.71,6.5 c -5.43,1.7 -11.17,2.6 -17.13,2.6 z"
+       id="qqd"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.00250053;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       class="ColorScheme-Text"
+       d="m 5.849,66.8 c 0,5.62 0.82,11.05 2.32,16.2 L 15,81.22 23.65,78.97 c -1.17,-3.87 -1.8,-7.95 -1.8,-12.17 0,-4.55 0.73,-8.94 2.07,-13.09 L 14.98,51.38 8.439,49.67 C 6.769,55.1 5.849,60.84 5.849,66.8 Z"
+       id="qqb"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#f6f6f6;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:16.00250053;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       class="ColorScheme-Text"
+       d="m 127.4,65.87 c 0,-5.62 -0.9,-11.05 -2.4,-16.2 l -6.8,1.78 -8.6,2.25 c 1.1,3.87 1.8,7.95 1.8,12.17 0,4.55 -0.8,8.94 -2.1,13.09 l 8.9,2.33 6.6,1.71 c 1.6,-5.43 2.6,-11.17 2.6,-17.13 z"
+       id="qqc"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     id="busywidget">
+    <rect
+       y="-88.030991"
+       x="-272.32977"
+       height="128"
+       width="128"
+       id="rect835"
+       style="opacity:0.5;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.33858299;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path827"
+       d="m -265.12463,-48.722971 a 62,62 0 0 0 -5.20514,24.786377 62,62 0 0 0 62,62.000002 62,62 0 0 0 62,-62.000002 62,62 0 0 0 -3.9942,-21.802551 58.749656,58.749656 0 0 1 1.01605,10.697875 58.749656,58.749656 0 0 1 -58.75128,58.749392 58.749656,58.749656 0 0 1 -58.74939,-58.749392 58.749656,58.749656 0 0 1 1.68396,-13.681701 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:11.33858299;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       class="ColorScheme-ViewHover" />
+  </g>
+</svg>

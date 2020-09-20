@@ -1,0 +1,1407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   width="162.71054"
+   viewBox="0 0 162.71064 93.997319"
+   version="1.1"
+   height="93.997375"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="button.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1405"
+     inkscape:window-height="843"
+     id="namedview4532"
+     showgrid="false"
+     inkscape:zoom="18.462696"
+     inkscape:cx="142.24368"
+     inkscape:cy="27.148624"
+     inkscape:current-layer="svg2"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-x="18"
+     inkscape:window-y="236"
+     inkscape:window-maximized="0"
+     inkscape:showpageshadow="false"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true" />
+  <defs
+     id="defs4">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-Highlight {
+        
+        stop-
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewBackground {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewBackground{
+        
+        stop-
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        
+        stop-
+      }
+      </style>
+    <linearGradient
+       id="linearGradient2237"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop2235" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2231"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop2229" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6136"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#4c616e;stop-opacity:1;"
+         offset="0"
+         id="stop6134" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6130"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#1b1b1b;stop-opacity:1;"
+         offset="0"
+         id="stop6128" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6124"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6122" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6118"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6116" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6112"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6110" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6106"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6104" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6100"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6098" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6094"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6092" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6088"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6086" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient6082"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop6080" />
+    </linearGradient>
+    <linearGradient
+       id="normal-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.84496123;"
+         offset="0"
+         id="stop6074" />
+    </linearGradient>
+    <linearGradient
+       id="hoverdar-7"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#425561;stop-opacity:1;"
+         offset="0"
+         id="stop5232" />
+    </linearGradient>
+    <linearGradient
+       id="focus-3"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ef5ade;stop-opacity:1;"
+         offset="0"
+         id="stop5440" />
+    </linearGradient>
+    <linearGradient
+       id="hoverborderdark-4"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#1b313d;stop-opacity:1;"
+         offset="0"
+         id="stop5352" />
+    </linearGradient>
+    <linearGradient
+       id="hoverborder-8"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.65697676;"
+         offset="0"
+         id="stop5208" />
+    </linearGradient>
+    <linearGradient
+       id="pressed-3"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#79a914;stop-opacity:0.50196081;"
+         offset="0"
+         id="stop4914" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4890"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#363636;stop-opacity:1;"
+         offset="0"
+         id="stop4888" />
+    </linearGradient>
+    <linearGradient
+       id="pressedborderlight-2"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4850" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4842"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#2a2a2a;stop-opacity:1;"
+         offset="0"
+         id="stop4840" />
+    </linearGradient>
+    <linearGradient
+       id="pressedborderdark-5"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4834" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5365"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5363" />
+    </linearGradient>
+    <linearGradient
+       id="pressed_border-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.72156864;"
+         offset="0"
+         id="stop4753" />
+    </linearGradient>
+    <linearGradient
+       id="normal-border-0"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.71764708;"
+         offset="0"
+         id="stop4715" />
+    </linearGradient>
+    <linearGradient
+       id="Pressed-7"
+       osb:paint="solid">
+      <stop
+         id="stop7502"
+         offset="0"
+         stop-opacity=".89412"
+         style="stop-color:#000000;stop-opacity:0.72138226;" />
+    </linearGradient>
+    <linearGradient
+       id="Hover-3"
+       osb:paint="solid">
+      <stop
+         id="stop5510"
+         offset="0"
+         stop-opacity=".49412"
+         style="stop-color:#ffffff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     id="normal-center"
+     y="-82.997398"
+     x="-91.03875"
+     width="24"
+     height="24"
+     class="ColorScheme-Text"
+     style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     transform="scale(-1)" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655"
+     id="normal-hint-right-margin"
+     width="2.0000012"
+     height="4.0000024"
+     x="-63.247204"
+     y="108.41657" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655"
+     id="normal-hint-top-margin"
+     width="2.0000012"
+     height="4.0000024"
+     x="64.51741"
+     y="45.028416" />
+  <rect
+     y="51.108562"
+     x="-82.14402"
+     height="4.0000024"
+     width="2.0000012"
+     id="normal-hint-left-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655"
+     transform="rotate(-90)" />
+  <rect
+     y="92.600197"
+     x="93.305626"
+     height="4.0000024"
+     width="2.0000012"
+     id="normal-hint-bottom-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81649655" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+     id="pressed-hint-left-margin"
+     width="2.0000012"
+     height="4.0000024"
+     x="-85.79026"
+     y="110.05663" />
+  <rect
+     y="42.265129"
+     x="124.9616"
+     height="4.0000024"
+     width="2.0000012"
+     id="pressed-hint-top-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994" />
+  <rect
+     y="166.60591"
+     x="-60.376762"
+     height="4.0000024"
+     width="2.0000012"
+     id="pressed-hint-right-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+     transform="rotate(-90)" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999994"
+     id="pressed-hint-bottom-margin"
+     width="2.0000012"
+     height="4.0000024"
+     x="150.33127"
+     y="96.030762" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032"
+     id="toolbutton-pressed-hint-top-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="67.349075"
+     y="-7.757205" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032"
+     id="toolbutton-pressed-hint-right-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="-11.758713"
+     y="105.31339" />
+  <rect
+     y="53.746265"
+     x="-33.603554"
+     height="2.0000012"
+     width="2.0000012"
+     id="toolbutton-pressed-hint-left-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032"
+     transform="rotate(-90)" />
+  <rect
+     y="43.809917"
+     x="90.590332"
+     height="2.0000012"
+     width="2.0000012"
+     id="toolbutton-pressed-hint-bottom-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032" />
+  <rect
+     id="toolbutton-hover-center"
+     y="-34.999985"
+     x="-151.71063"
+     width="24"
+     height="24"
+     class="ColorScheme-ButtonBackground"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     transform="scale(-1)" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032"
+     id="toolbutton-hover-hint-left-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="-33.293236"
+     y="119.1893" />
+  <rect
+     y="2.6914234"
+     x="127.4912"
+     height="2.0000012"
+     width="2.0000012"
+     id="toolbutton-hover-hint-top-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032" />
+  <rect
+     y="159.82947"
+     x="-13.274271"
+     height="2.0000012"
+     width="2.0000012"
+     id="toolbutton-hover-hint-right-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735032"
+     transform="rotate(-90)" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.57735026"
+     id="toolbutton-hover-hint-bottom-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="151.65012"
+     y="46.951893" />
+  <rect
+     id="hover-center"
+     y="-84.533394"
+     x="-33.000008"
+     width="24"
+     height="24"
+     class="ColorScheme-ButtonHover"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     transform="scale(-1)" />
+  <g
+     transform="rotate(90,-38.043671,71.317453)"
+     id="hover-right">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.41421354"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-0.2737757"
+       y="-48.827728"
+       id="rect1235" />
+    <rect
+       id="rect1237"
+       y="-48.827728"
+       x="1.7262255"
+       width="2.0000012"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.33000004;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+       transform="rotate(-90)" />
+  </g>
+  <rect
+     y="84.533394"
+     x="31.000004"
+     height="2.0000012"
+     width="2.0000012"
+     id="hover-hint-bottom-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+     id="hover-hint-top-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="9.0000076"
+     y="58.533394" />
+  <rect
+     y="7.0000076"
+     x="-84.533394"
+     height="2.0000012"
+     width="2.0000012"
+     id="hover-hint-left-margin"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+     transform="rotate(-90)" />
+  <rect
+     transform="rotate(-90)"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1"
+     id="hover-hint-right-margin"
+     width="2.0000012"
+     height="2.0000012"
+     x="-62.533398"
+     y="33.000008" />
+  <g
+     id="hover-topright"
+     transform="translate(-1.8377112,1.3165701)">
+    <rect
+       y="55.216824"
+       x="34.837719"
+       height="4.0000024"
+       width="4.0000024"
+       id="rect1247"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect957"
+       width="1.0000006"
+       height="1.0000006"
+       x="34.837719"
+       y="58.216824"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+  <rect
+     id="pressed-center"
+     y="-82.997398"
+     x="-151.03876"
+     width="24"
+     height="24"
+     class="ColorScheme-ButtonBackground"
+     style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     transform="scale(-1)" />
+  <g
+     id="pressed-top"
+     transform="translate(-0.32914734,4.6205654)">
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="3.0000019"
+       x="51.376831"
+       y="-151.3679"
+       id="rect1130" />
+    <rect
+       id="rect1168"
+       y="-151.3679"
+       x="50.376831"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(90)" />
+  </g>
+  <g
+     id="pressed-topright"
+     transform="translate(-1.7828486,2.5919935)">
+    <rect
+       id="rect1154"
+       y="53.405396"
+       x="-155.82161"
+       width="3.0000019"
+       height="3.0000019"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.14433768"
+       class="ColorScheme-ButtonBackground"
+       height="3.0000019"
+       width="1.0000006"
+       x="-156.82161"
+       y="53.405399"
+       id="rect1156" />
+    <rect
+       id="rect1177"
+       y="52.405396"
+       x="-156.82161"
+       width="4.0000024"
+       height="1.0000006"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666679"
+       transform="scale(-1,1)" />
+  </g>
+  <g
+     id="toolbutton-hover-top">
+    <rect
+       id="rect972"
+       y="127.71063"
+       x="-10.999986"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="1.0000006"
+       x="-9.9999847"
+       y="127.71063"
+       id="rect966" />
+  </g>
+  <g
+     id="toolbutton-hover-bottom"
+     transform="matrix(1,0,0,-1,0,45.999971)">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-10.999986"
+       y="127.71063"
+       id="rect7654" />
+    <rect
+       id="rect7656"
+       y="127.71063"
+       x="-9.9999847"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     id="toolbutton-hover-right"
+     transform="rotate(90,139.71063,22.999985)">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-10.999986"
+       y="127.71063"
+       id="rect7660" />
+    <rect
+       id="rect7662"
+       y="127.71063"
+       x="-9.9999847"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(0,1,1,0,116.71064,-116.71065)"
+     id="toolbutton-hover-left">
+    <rect
+       id="rect7666"
+       y="127.71063"
+       x="-10.999986"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="1.0000006"
+       x="-9.9999847"
+       y="127.71063"
+       id="rect7668" />
+  </g>
+  <g
+     id="toolbutton-hover-topright"
+     transform="translate(-1.8533804,1.9115731)">
+    <rect
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
+       class="ColorScheme-ViewHover"
+       height="2.0000012"
+       width="2.0000012"
+       x="153.56401"
+       y="7.0884128"
+       id="rect7674" />
+    <rect
+       id="rect7672"
+       y="8.0884132"
+       x="153.56401"
+       width="1.0000006"
+       height="1.0000006"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,281.27464,1.9115684)"
+     id="toolbutton-hover-topleft">
+    <rect
+       id="rect7686"
+       y="7.0884128"
+       x="153.56401"
+       width="2.0000012"
+       height="2.0000012"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="1.0000006"
+       x="153.56401"
+       y="8.0884132"
+       id="rect7688" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-1.8533783,44.0884)"
+     id="toolbutton-hover-bottomright">
+    <rect
+       id="rect7692"
+       y="7.0884128"
+       x="153.56401"
+       width="2.0000012"
+       height="2.0000012"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="1.0000006"
+       x="153.56401"
+       y="8.0884132"
+       id="rect7694" />
+  </g>
+  <g
+     id="toolbutton-hover-bottomleft"
+     transform="rotate(-180,140.63732,22.044198)">
+    <rect
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
+       class="ColorScheme-ViewHover"
+       height="2.0000012"
+       width="2.0000012"
+       x="153.56401"
+       y="7.0884128"
+       id="rect7698" />
+    <rect
+       id="rect7700"
+       y="8.0884132"
+       x="153.56401"
+       width="1.0000006"
+       height="1.0000006"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421" />
+  </g>
+  <rect
+     id="toolbutton-pressed-center"
+     y="-34.999985"
+     x="-91.710632"
+     width="24"
+     height="24"
+     class="ColorScheme-ButtonBackground"
+     style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+     transform="scale(-1)" />
+  <g
+     transform="translate(-60.000031)"
+     id="toolbutton-pressed-top">
+    <rect
+       id="rect7706"
+       y="127.71063"
+       x="-10.999986"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="1.0000006"
+       x="-9.9999847"
+       y="127.71063"
+       id="rect7708" />
+  </g>
+  <g
+     id="toolbutton-pressed-bottom"
+     transform="matrix(1,0,0,-1,-60.000031,45.999971)">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-10.999986"
+       y="127.71063"
+       id="rect7712" />
+    <rect
+       id="rect7714"
+       y="127.71063"
+       x="-9.9999847"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     id="toolbutton-pressed-right"
+     transform="rotate(90,109.71063,-7.0000378)">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-10.999986"
+       y="127.71063"
+       id="rect7718" />
+    <rect
+       id="rect7720"
+       y="127.71063"
+       x="-9.9999847"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(0,1,1,0,56.710618,-116.71065)"
+     id="toolbutton-pressed-left">
+    <rect
+       id="rect7724"
+       y="127.71063"
+       x="-10.999986"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="1.0000006"
+       x="-9.9999847"
+       y="127.71063"
+       id="rect7726" />
+  </g>
+  <g
+     id="toolbutton-pressed-topright"
+     transform="translate(-61.853411,1.9115731)">
+    <rect
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
+       class="ColorScheme-ViewHover"
+       height="2.0000012"
+       width="2.0000012"
+       x="153.56401"
+       y="7.0884128"
+       id="rect7730" />
+    <rect
+       id="rect7732"
+       y="8.0884132"
+       x="153.56401"
+       width="1.0000006"
+       height="1.0000006"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,221.27464,1.9115684)"
+     id="toolbutton-pressed-topleft">
+    <rect
+       id="rect7736"
+       y="7.0884128"
+       x="153.56401"
+       width="2.0000012"
+       height="2.0000012"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+    <rect
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="1.0000006"
+       x="153.56401"
+       y="8.0884132"
+       id="rect7738" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-61.853409,44.0884)"
+     id="toolbutton-pressed-bottomright">
+    <rect
+       id="rect7742"
+       y="7.0884128"
+       x="153.56401"
+       width="2.0000012"
+       height="2.0000012"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+    <rect
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="1.0000006"
+       x="153.56401"
+       y="8.0884132"
+       id="rect7744" />
+  </g>
+  <g
+     id="toolbutton-pressed-bottomleft"
+     transform="rotate(-180,110.63732,22.044198)">
+    <rect
+       style="opacity:0.25;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
+       class="ColorScheme-ViewHover"
+       height="2.0000012"
+       width="2.0000012"
+       x="153.56401"
+       y="7.0884128"
+       id="rect7748" />
+    <rect
+       id="rect7750"
+       y="8.0884132"
+       x="153.56401"
+       width="1.0000006"
+       height="1.0000006"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:#949494;fill-opacity:1;fill-rule:evenodd;stroke-width:0.20412421" />
+  </g>
+  <g
+     id="normal-top"
+     transform="translate(-1.155159,5.6974449)">
+    <rect
+       id="rect1006"
+       y="68.193909"
+       x="-50.29995"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       class="ColorScheme-Text"
+       height="24"
+       width="3.0000019"
+       x="-53.299953"
+       y="68.193909"
+       id="rect999" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-1.155159,136.29735)"
+     id="normal-bottom">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-50.29995"
+       y="68.193909"
+       id="rect1008" />
+    <rect
+       id="rect1010"
+       y="68.193909"
+       x="-53.299953"
+       width="3.0000019"
+       height="24"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="rotate(90,76.767607,67.571096)"
+     id="normal-right">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-50.29995"
+       y="68.193909"
+       id="rect1014" />
+    <rect
+       id="rect1016"
+       y="68.193909"
+       x="-53.299953"
+       width="3.0000019"
+       height="24"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     id="normal-left"
+     transform="matrix(0,1,1,0,13.738796,-9.196511)">
+    <rect
+       id="rect1020"
+       y="68.193909"
+       x="-50.29995"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       class="ColorScheme-Text"
+       height="24"
+       width="3.0000019"
+       x="-53.299953"
+       y="68.193909"
+       id="rect1022" />
+  </g>
+  <g
+     id="normal-topright"
+     transform="translate(-1.1741373,5.9896424)">
+    <path
+       id="path1035"
+       transform="translate(0,-5.6906144e-5)"
+       d="m 92.212891,49.007812 v 1 h 3 v 3 h 1 v -4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       transform="scale(-1)"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-Text"
+       height="3.0000019"
+       width="3.0000019"
+       x="-95.212891"
+       y="-53.007755"
+       id="rect1026" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,159.25163,5.9896424)"
+     id="normal-topleft">
+    <path
+       class="ColorScheme-ButtonBackground"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       d="m 92.212891,49.007812 v 1 h 3 v 3 h 1 v -4 z"
+       transform="translate(0,-5.6906144e-5)"
+       id="path1037" />
+    <rect
+       id="rect1040"
+       y="-53.007755"
+       x="-95.212891"
+       width="3.0000019"
+       height="3.0000019"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="scale(-1)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-1.174137,136.00515)"
+     id="normal-bottomright">
+    <path
+       class="ColorScheme-ButtonBackground"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       d="m 92.212891,49.007812 v 1 h 3 v 3 h 1 v -4 z"
+       transform="translate(0,-5.6906144e-5)"
+       id="path1044" />
+    <rect
+       id="rect1046"
+       y="-53.007755"
+       x="-95.212891"
+       width="3.0000019"
+       height="3.0000019"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="scale(-1)" />
+  </g>
+  <g
+     transform="rotate(-180,79.625819,68.00258)"
+     id="normal-bottomleft">
+    <path
+       class="ColorScheme-ButtonBackground"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       d="m 92.212891,49.007812 v 1 h 3 v 3 h 1 v -4 z"
+       transform="translate(0,-5.6906144e-5)"
+       id="path1050" />
+    <rect
+       id="rect1052"
+       y="-53.007755"
+       x="-95.212891"
+       width="3.0000019"
+       height="3.0000019"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="scale(-1)" />
+  </g>
+  <g
+     id="hover-left"
+     transform="matrix(0,1,1,0,8.726232,109.36112)">
+    <rect
+       id="rect1056"
+       y="-48.827728"
+       x="-0.2737757"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.41421354"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.33000004;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="2.0000012"
+       x="1.7262255"
+       y="-48.827728"
+       id="rect1058" />
+  </g>
+  <g
+     id="hover-top"
+     transform="translate(57.827736,60.259618)">
+    <rect
+       id="rect1062"
+       y="-48.827728"
+       x="-0.2737757"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.41421354"
+       transform="rotate(-90)" />
+    <rect
+       transform="rotate(-90)"
+       style="opacity:0.33000004;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+       class="ColorScheme-ViewHover"
+       height="24"
+       width="2.0000012"
+       x="1.7262255"
+       y="-48.827728"
+       id="rect1064" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,57.827736,84.80717)"
+     id="hover-bottom">
+    <rect
+       transform="rotate(-90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.41421354"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="-0.2737757"
+       y="-48.827728"
+       id="rect1068" />
+    <rect
+       id="rect1070"
+       y="-48.827728"
+       x="1.7262255"
+       width="2.0000012"
+       height="24"
+       class="ColorScheme-ViewHover"
+       style="opacity:0.33000004;fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:2"
+       transform="rotate(-90)" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,43.837726,1.3165643)"
+     id="hover-topleft">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1074"
+       width="4.0000024"
+       height="4.0000024"
+       x="34.837719"
+       y="55.216824" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="58.216824"
+       x="34.837719"
+       height="1.0000006"
+       width="1.0000006"
+       id="rect1076"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-1.837714,143.75022)"
+     id="hover-bottomright">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1080"
+       width="4.0000024"
+       height="4.0000024"
+       x="34.837719"
+       y="55.216824" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="58.216824"
+       x="34.837719"
+       height="1.0000006"
+       width="1.0000006"
+       id="rect1082"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     transform="rotate(-180,21.918863,71.87511)"
+     id="hover-bottomleft">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect1086"
+       width="4.0000024"
+       height="4.0000024"
+       x="34.837719"
+       y="55.216824" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="58.216824"
+       x="34.837719"
+       height="1.0000006"
+       width="1.0000006"
+       id="rect1088"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+  </g>
+  <g
+     transform="rotate(90,136.89305,68.522542)"
+     id="pressed-right">
+    <rect
+       id="rect1092"
+       y="-151.3679"
+       x="51.376831"
+       width="3.0000019"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="50.376831"
+       y="-151.3679"
+       id="rect1094" />
+  </g>
+  <g
+     id="pressed-left"
+     transform="matrix(0,1,1,0,72.661927,-68.370509)">
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="3.0000019"
+       x="51.376831"
+       y="-151.3679"
+       id="rect1098" />
+    <rect
+       id="rect1100"
+       y="-151.3679"
+       x="50.376831"
+       width="1.0000006"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       transform="rotate(90)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-0.32914734,137.37423)"
+     id="pressed-bottom">
+    <rect
+       id="rect1104"
+       y="-151.3679"
+       x="51.376831"
+       width="3.0000019"
+       height="24"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1.73205078"
+       transform="rotate(90)" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:1"
+       class="ColorScheme-ButtonBackground"
+       height="24"
+       width="1.0000006"
+       x="50.376831"
+       y="-151.3679"
+       id="rect1106" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,279.86037,2.5919944)"
+     id="pressed-topleft">
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-ButtonBackground"
+       height="3.0000019"
+       width="3.0000019"
+       x="-155.82161"
+       y="53.405396"
+       id="rect1110" />
+    <rect
+       id="rect1112"
+       y="53.405399"
+       x="-156.82161"
+       width="1.0000006"
+       height="3.0000019"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.14433768"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666679"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="4.0000024"
+       x="-156.82161"
+       y="52.405396"
+       id="rect1114" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-1.7828498,139.40279)"
+     id="pressed-bottomright">
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-ButtonBackground"
+       height="3.0000019"
+       width="3.0000019"
+       x="-155.82161"
+       y="53.405396"
+       id="rect1118" />
+    <rect
+       id="rect1120"
+       y="53.405399"
+       x="-156.82161"
+       width="1.0000006"
+       height="3.0000019"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.14433768"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666679"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="4.0000024"
+       x="-156.82161"
+       y="52.405396"
+       id="rect1122" />
+  </g>
+  <g
+     transform="rotate(-180,139.93018,69.701395)"
+     id="pressed-bottomleft">
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-ButtonBackground"
+       height="3.0000019"
+       width="3.0000019"
+       x="-155.82161"
+       y="53.405396"
+       id="rect1126" />
+    <rect
+       id="rect1128"
+       y="53.405399"
+       x="-156.82161"
+       width="1.0000006"
+       height="3.0000019"
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.14433768"
+       transform="scale(-1,1)" />
+    <rect
+       transform="scale(-1,1)"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.16666679"
+       class="ColorScheme-ButtonBackground"
+       height="1.0000006"
+       width="4.0000024"
+       x="-156.82161"
+       y="52.405396"
+       id="rect1131" />
+  </g>
+</svg>

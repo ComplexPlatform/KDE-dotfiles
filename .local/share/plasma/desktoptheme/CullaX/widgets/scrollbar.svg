@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="94.610031"
+   height="30.385454"
+   viewBox="0 0 94.610029 30.385454"
+   version="1.1"
+   id="svg967"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="scrollbar.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.3959825"
+     inkscape:cx="26.057469"
+     inkscape:cy="32.74679"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5"
+     units="px" />
+  <defs
+     id="defs961" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <metadata
+     id="metadata964">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(695.40092,-407.07425)">
+    <rect
+       style="opacity:1;fill:#808080;fill-opacity:1;stroke-width:0.98702019"
+       id="hint-scrollbar-size"
+       width="9"
+       height="9"
+       x="-614.79089"
+       y="417.29672" />
+    <rect
+       y="416.07425"
+       x="-643.53143"
+       height="12"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="background-vertical-center"
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.03394168" />
+    <rect
+       y="428.07425"
+       x="-643.53143"
+       height="4"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="background-vertical-bottom"
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.01959624" />
+    <rect
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.01959624"
+       class="ColorScheme-ViewHover"
+       id="background-vertical-top"
+       width="1"
+       height="4"
+       x="-643.53143"
+       y="412.07425" />
+    <rect
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.06788336"
+       id="background-vertical-right"
+       width="4"
+       height="12"
+       x="-642.53143"
+       y="416.07428" />
+    <rect
+       y="416.07428"
+       x="-647.53137"
+       height="12"
+       width="4"
+       id="background-vertical-left"
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.06788336" />
+    <rect
+       y="412.07425"
+       x="-642.53143"
+       height="4"
+       width="4"
+       id="background-vertical-topright"
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.03919248"
+       id="background-vertical-topleft"
+       width="4"
+       height="4"
+       x="-647.53137"
+       y="412.07428" />
+    <rect
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.03919248"
+       id="background-vertical-bottomright"
+       width="4"
+       height="4"
+       x="-642.53143"
+       y="428.07428" />
+    <rect
+       y="428.07425"
+       x="-647.53143"
+       height="4"
+       width="4"
+       id="background-vertical-bottomleft"
+       style="opacity:0.4;fill:#b3b3b3;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       y="416.07425"
+       x="-625.53143"
+       height="12"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="background-horizontal-center"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.03394168" />
+    <rect
+       y="428.07425"
+       x="-625.53143"
+       height="4"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="background-horizontal-bottom"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.01959624" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.01959624"
+       class="ColorScheme-ViewHover"
+       id="background-horizontal-top"
+       width="1"
+       height="4"
+       x="-625.53143"
+       y="412.07425" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.06788336"
+       id="background-horizontal-right"
+       width="4"
+       height="12"
+       x="-624.53143"
+       y="416.07428" />
+    <rect
+       y="416.07428"
+       x="-629.53137"
+       height="12"
+       width="4"
+       id="background-horizontal-left"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.06788336" />
+    <rect
+       y="412.07425"
+       x="-624.53143"
+       height="4"
+       width="4"
+       id="background-horizontal-topright"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.03919248"
+       id="background-horizontal-topleft"
+       width="4"
+       height="4"
+       x="-629.53137"
+       y="412.07428" />
+    <rect
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.03919248"
+       id="background-horizontal-bottomright"
+       width="4"
+       height="4"
+       x="-624.53143"
+       y="428.07428" />
+    <rect
+       y="428.07425"
+       x="-629.53143"
+       height="4"
+       width="4"
+       id="background-horizontal-bottomleft"
+       style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       y="416.07425"
+       x="-661.53143"
+       height="12"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="slider-center"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.03394168" />
+    <rect
+       y="428.07425"
+       x="-661.53143"
+       height="4"
+       width="1"
+       class="ColorScheme-ViewHover"
+       id="slider-bottom"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.01959624" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.01959624"
+       class="ColorScheme-ViewHover"
+       id="slider-top"
+       width="1"
+       height="4"
+       x="-661.53143"
+       y="412.07425" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.06788336"
+       id="slider-right"
+       width="4"
+       height="12"
+       x="-660.53143"
+       y="416.07428" />
+    <rect
+       y="416.07428"
+       x="-665.53137"
+       height="12"
+       width="4"
+       id="slider-left"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.06788336" />
+    <rect
+       y="412.07425"
+       x="-660.53143"
+       height="4"
+       width="4"
+       id="slider-topright"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.03919248"
+       id="slider-topleft"
+       width="4"
+       height="4"
+       x="-665.53137"
+       y="412.07428" />
+    <rect
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.03919248"
+       id="slider-bottomright"
+       width="4"
+       height="4"
+       x="-660.53143"
+       y="428.07428" />
+    <rect
+       y="428.07425"
+       x="-665.53143"
+       height="4"
+       width="4"
+       id="slider-bottomleft"
+       style="opacity:1;fill:#cccccc;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.06788336"
+       id="sunken-slider-left"
+       width="4"
+       height="12"
+       x="-683.53137"
+       y="416.07428"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="416.07428"
+       x="-678.53143"
+       height="12"
+       width="4"
+       id="sunken-slider-right"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.06788336" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="416.07425"
+       x="-679.53143"
+       height="12"
+       width="1"
+       id="sunken-slider-center"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03394168" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248"
+       id="sunken-slider-topright"
+       width="4"
+       height="4"
+       x="-678.53143"
+       y="412.07425"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="412.07425"
+       x="-683.53143"
+       height="4"
+       width="4"
+       id="sunken-slider-topleft"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.01959624"
+       id="sunken-slider-top"
+       width="1"
+       height="4"
+       x="-679.53143"
+       y="412.07428"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="428.07428"
+       x="-679.53143"
+       height="4"
+       width="1"
+       id="sunken-slider-bottom"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.01959624" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="428.07428"
+       x="-678.53143"
+       height="4"
+       width="4"
+       id="sunken-slider-bottomright"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248"
+       id="sunken-slider-bottomleft"
+       width="4"
+       height="4"
+       x="-683.53143"
+       y="428.07428"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.06788336"
+       id="mouseover-slider-left"
+       width="4"
+       height="12"
+       x="-699.60205"
+       y="416.07428"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="416.07428"
+       x="-694.60211"
+       height="12"
+       width="4"
+       id="mouseover-slider-right"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.06788336" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="416.07425"
+       x="-695.60211"
+       height="12"
+       width="1"
+       id="mouseover-slider-center"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03394168" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248"
+       id="mouseover-slider-topright"
+       width="4"
+       height="4"
+       x="-694.60211"
+       y="412.07425"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="412.07425"
+       x="-699.60211"
+       height="4"
+       width="4"
+       id="mouseover-slider-topleft"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.01959624"
+       id="mouseover-slider-top"
+       width="1"
+       height="4"
+       x="-695.60211"
+       y="412.07428"
+       class="ColorScheme-ButtonBackground" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="428.07428"
+       x="-695.60211"
+       height="4"
+       width="1"
+       id="mouseover-slider-bottom"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.01959624" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       y="428.07428"
+       x="-694.60211"
+       height="4"
+       width="4"
+       id="mouseover-slider-bottomright"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248" />
+    <rect
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.03919248"
+       id="mouseover-slider-bottomleft"
+       width="4"
+       height="4"
+       x="-699.60211"
+       y="428.07428"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+</svg>

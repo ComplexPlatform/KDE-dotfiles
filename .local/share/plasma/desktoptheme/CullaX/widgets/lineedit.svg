@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg986"
+   width="113"
+   height="78.536"
+   version="1.1"
+   viewBox="0 0 113 78.536"
+   sodipodi:docname="lineedit.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <defs
+     id="defs78" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+        .ColorScheme-Text {
+        }
+        .ColorScheme-Background{
+        }
+        .ColorScheme-Highlight{
+        }
+        .ColorScheme-ViewText {
+        }
+        .ColorScheme-ViewBackground{
+        }
+        .ColorScheme-ViewHover {
+        }
+        .ColorScheme-ViewFocus{
+        }
+        .ColorScheme-ButtonText {
+        }
+        .ColorScheme-ButtonFocus{
+        }
+        .ColorScheme-ButtonHover {
+        }
+        .ColorScheme-ButtonFocus{
+        }
+        .ColorScheme-ButtonBackground{
+        }
+  </style>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview76"
+     showgrid="false"
+     inkscape:zoom="6.932772"
+     inkscape:cx="40.949516"
+     inkscape:cy="40.312898"
+     inkscape:current-layer="svg986"
+     inkscape:pagecheckerboard="true" />
+  <metadata
+     id="metadata983">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;fill-opacity:1;opacity:0.05"
+     height="16"
+     width="32"
+     y="14.000025"
+     x="13"
+     id="base-center" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.89442718;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="32"
+     y="-34.000023"
+     x="13"
+     transform="scale(1,-1)"
+     id="base-bottom" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.89442718;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="16"
+     y="-49"
+     x="-30.000025"
+     transform="matrix(0,-1,-1,0,0,0)"
+     id="base-right" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.89442718;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="16"
+     y="9"
+     x="-30.000025"
+     transform="rotate(-90)"
+     id="base-left" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.80000001;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="4"
+     y="30.000027"
+     x="45"
+     id="base-bottomright" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.80000001;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="4"
+     y="30.000027"
+     x="-13"
+     transform="scale(-1,1)"
+     id="base-bottomleft" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.73029679;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="4"
+     y="10.000025"
+     x="45"
+     id="base-topright" />
+  <rect
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.73029679;fill-opacity:1;opacity:0.05"
+     height="4"
+     width="4"
+     y="10.000025"
+     x="-13"
+     transform="scale(-1,1)"
+     id="base-topleft" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.22474492"
+     height="6"
+     width="1"
+     y="-0.72664297"
+     x="7.6630297"
+     id="base-hint-top-margin" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.22474492"
+     height="6"
+     width="1"
+     y="37.15942"
+     x="43.855759"
+     id="base-hint-bottom-margin" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.22474492"
+     height="6"
+     width="1"
+     y="-8.3648472"
+     x="36.140026"
+     transform="rotate(90)"
+     id="base-hint-left-margin" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.22474492"
+     height="6"
+     width="1"
+     y="-60.375759"
+     x="14.721237"
+     transform="rotate(90)"
+     id="base-hint-right-margin" />
+  <rect
+     style="fill:none;fill-rule:evenodd;fill-opacity:1;opacity:0.2"
+     height="16"
+     width="32"
+     y="49.599998"
+     x="68"
+     id="focus-center" />
+  <g
+     id="focus-top"
+     transform="translate(-24.901847,16.550334)"
+     style="opacity:0.9">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.86602539"
+       height="3"
+       width="32"
+       y="29.031815"
+       x="92.900848"
+       id="rect967" />
+    <rect
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       height="1"
+       width="32"
+       y="32.031815"
+       x="92.900848"
+       id="rect960"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.2247448"
+     height="3"
+     width="1"
+     y="33.952641"
+     x="68.612968"
+     id="focus-hint-top-margin" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.2247448"
+     height="3"
+     width="1"
+     y="74.759537"
+     x="102.77831"
+     id="focus-hint-bottom-margin" />
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.2247448"
+     height="3"
+     width="1"
+     y="-110.34263"
+     x="45.6222"
+     transform="rotate(90)"
+     id="focus-hint-right-margin" />
+  <rect
+     id="base-top"
+     transform="scale(1,-1)"
+     x="13"
+     y="-14.000025"
+     width="32"
+     height="4"
+     style="fill:#7f7f7f;fill-rule:evenodd;stroke-width:0.89442718;fill-opacity:1;opacity:0.05" />
+  <g
+     id="focus-bottom"
+     transform="matrix(1,0,0,-1,-24.900848,98.631813)"
+     style="opacity:0.9">
+    <rect
+       id="rect863"
+       x="92.900848"
+       y="29.031815"
+       width="32"
+       height="3"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.86602539" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       id="rect865"
+       x="92.900848"
+       y="32.031815"
+       width="32"
+       height="1"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5" />
+  </g>
+  <g
+     id="focus-right"
+     transform="matrix(0,0.5,-1,0,133.03632,3.1495285)"
+     style="opacity:0.9">
+    <rect
+       id="rect869"
+       x="92.900848"
+       y="29.031815"
+       width="32"
+       height="3"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.86602539" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       id="rect871"
+       x="92.900848"
+       y="32.031815"
+       width="32"
+       height="1"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5" />
+  </g>
+  <g
+     transform="matrix(0,0.5,1,0,34.968186,3.1495743)"
+     id="focus-left"
+     style="opacity:0.9">
+    <rect
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke-width:0.86602539"
+       height="3"
+       width="32"
+       y="29.031815"
+       x="92.900848"
+       id="rect875" />
+    <rect
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.5"
+       height="1"
+       width="32"
+       y="32.031815"
+       x="92.900848"
+       id="rect877"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+  <g
+     id="focus-bottomleft"
+     transform="translate(2.3441319,-1.6943741)"
+     style="opacity:0.9">
+    <rect
+       y="67.294373"
+       x="61.655865"
+       height="4"
+       width="4"
+       id="rect881"
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke-width:0.74061066;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.18515266;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect883"
+       width="1"
+       height="1"
+       x="64.655869"
+       y="67.294373" />
+  </g>
+  <rect
+     style="fill:#bed4d9;fill-rule:evenodd;stroke-width:1.2247448"
+     height="3"
+     width="1"
+     y="-59.055508"
+     x="61.795139"
+     transform="rotate(90)"
+     id="focus-hint-left-margin" />
+  <g
+     transform="matrix(1,0,0,-1,2.3431329,116.87652)"
+     id="focus-topleft"
+     style="opacity:0.9">
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke-width:0.74061066;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect889"
+       width="4"
+       height="4"
+       x="61.655865"
+       y="67.294373" />
+    <rect
+       y="67.294373"
+       x="64.655869"
+       height="1"
+       width="1"
+       id="rect892"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.18515266;stroke-miterlimit:4;stroke-dasharray:none"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,165.66037,-1.6944199)"
+     id="focus-bottomright"
+     style="opacity:0.9">
+    <rect
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke-width:0.74061066;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect896"
+       width="4"
+       height="4"
+       x="61.655865"
+       y="67.294373" />
+    <rect
+       y="67.294373"
+       x="64.655869"
+       height="1"
+       width="1"
+       id="rect898"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.18515266;stroke-miterlimit:4;stroke-dasharray:none"
+       class="ColorScheme-ButtonBackground" />
+  </g>
+  <g
+     id="focus-topright"
+     transform="rotate(-180,82.827435,58.438261)"
+     style="opacity:0.9">
+    <rect
+       y="67.294373"
+       x="61.655865"
+       height="4"
+       width="4"
+       id="rect902"
+       style="opacity:0.5;fill:none;fill-opacity:1;stroke-width:0.74061066;stroke-miterlimit:4;stroke-dasharray:none" />
+    <rect
+       class="ColorScheme-ButtonBackground"
+       style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.18515266;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect904"
+       width="1"
+       height="1"
+       x="64.655869"
+       y="67.294373" />
+  </g>
+</svg>

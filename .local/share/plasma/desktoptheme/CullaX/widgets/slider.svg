@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64.500008"
+   height="64.064575"
+   viewBox="0 0 64.500008 64.064578"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="slider.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="9.4953025"
+     inkscape:cx="37.469486"
+     inkscape:cy="27.662209"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1848"
+     inkscape:window-height="967"
+     inkscape:window-x="72"
+     inkscape:window-y="30"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:snap-nodes="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-global="true"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
+  <defs
+     id="defs2" />
+  <style
+     type="text/css"
+     id="current-color-scheme">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(-86.480905,-607.92154)">
+    <circle
+       style="fill:#4d4d4d;stroke-width:3.88003445"
+       id="hint-handle-size"
+       cx="152.67189"
+       cy="641.78363"
+       r="11" />
+    <g
+       id="horizontal-slider-handle">
+      <rect
+         y="628.67114"
+         x="84.319466"
+         height="22"
+         width="22"
+         id="rect345"
+         style="fill:none;stroke-width:0.98613179" />
+      <circle
+         r="9"
+         style="opacity:1;fill:currentColor;stroke-width:2.55199742"
+         id="KKK"
+         class="ColorScheme-ViewHover"
+         cx="95.319466"
+         cy="639.67114" />
+    </g>
+    <g
+       id="horizontal-slider-hover"
+       transform="translate(-0.52657617,-15.376024)">
+      <rect
+         style="fill:none;stroke-width:0.98613179"
+         id="rect130"
+         width="22"
+         height="22"
+         x="113.48288"
+         y="644.28436" />
+      <circle
+         r="10"
+         cy="655.28436"
+         cx="124.48288"
+         class="ColorScheme-ViewHover"
+         id="WWW"
+         style="opacity:0.7;fill:currentColor;stroke-width:5.23874092" />
+    </g>
+    <rect
+       class="ColorScheme-Text"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="groove-center"
+       width="4"
+       height="4"
+       x="98.480904"
+       y="617.18866" />
+    <g
+       id="groove-top"
+       transform="translate(10.925417,26.12313)">
+      <rect
+         class="ColorScheme-Text"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1472"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1474"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <rect
+       y="617.18866"
+       x="94.480904"
+       height="4"
+       width="4"
+       id="groove-left"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       class="ColorScheme-Text" />
+    <rect
+       y="617.18866"
+       x="102.4809"
+       height="4"
+       width="4"
+       id="groove-right"
+       style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       class="ColorScheme-Text" />
+    <g
+       transform="translate(14.925417,26.12313)"
+       id="groove-topright">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1482"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-Text" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1484"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       transform="translate(6.9254171,26.12313)"
+       id="groove-topleft">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1488"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-Text" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1490"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,10.925417,1212.2543)"
+       id="groove-bottom">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1494"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-Text" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1496"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       id="groove-bottomright"
+       transform="matrix(1,0,0,-1,14.925417,1212.2543)">
+      <rect
+         class="ColorScheme-Text"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1500"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1502"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="groove-bottomleft"
+       transform="matrix(1,0,0,-1,6.9254171,1212.2543)">
+      <rect
+         class="ColorScheme-Text"
+         style="opacity:1;fill:#a0a0a0;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1506"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1508"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <rect
+       class="ColorScheme-ViewHover"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="groove-highlight-center"
+       width="4"
+       height="4"
+       x="134.98091"
+       y="616.92157" />
+    <g
+       id="groove-highlight-top"
+       transform="translate(47.425417,25.855989)">
+      <rect
+         class="ColorScheme-ViewHover"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1596"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1598"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <rect
+       y="616.92157"
+       x="130.98091"
+       height="4"
+       width="4"
+       id="groove-highlight-left"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       class="ColorScheme-ViewHover" />
+    <rect
+       y="616.92157"
+       x="138.98091"
+       height="4"
+       width="4"
+       id="groove-highlight-right"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999988;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       class="ColorScheme-ViewHover" />
+    <g
+       transform="translate(51.425417,25.855989)"
+       id="groove-highlight-topright">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1606"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-ViewHover" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1608"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       transform="translate(43.425417,25.855989)"
+       id="groove-highlight-topleft">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1612"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-ViewHover" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1614"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       transform="matrix(1,0,0,-1,47.425417,1211.9871)"
+       id="groove-highlight-bottom">
+      <rect
+         y="590.06555"
+         x="87.555489"
+         height="1"
+         width="4"
+         id="rect1618"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         class="ColorScheme-ViewHover" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1620"
+         width="4"
+         height="3"
+         x="87.555489"
+         y="587.06555" />
+    </g>
+    <g
+       id="groove-highlight-bottomright"
+       transform="matrix(1,0,0,-1,51.425417,1211.9871)">
+      <rect
+         class="ColorScheme-ViewHover"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1624"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1626"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+    <g
+       id="groove-highlight-bottomleft"
+       transform="matrix(1,0,0,-1,43.425417,1211.9871)">
+      <rect
+         class="ColorScheme-ViewHover"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect1630"
+         width="4"
+         height="1"
+         x="87.555489"
+         y="590.06555" />
+      <rect
+         y="587.06555"
+         x="87.555489"
+         height="3"
+         width="4"
+         id="rect1632"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99999976;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal" />
+    </g>
+  </g>
+</svg>

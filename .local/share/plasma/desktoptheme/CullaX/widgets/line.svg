@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30.257336mm"
+   height="26.35mm"
+   viewBox="0 0 114.35844 99.590554"
+   version="1.1"
+   id="svg831"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   sodipodi:docname="line.svg">
+  <defs
+     id="defs825" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="61.60782"
+     inkscape:cy="45.959034"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata828">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(792.08098,-575.01008)">
+    <g
+       id="horizontal-line">
+      <rect
+         class="ColorScheme-Background"
+         transform="rotate(90)"
+         style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke-width:0.07258662"
+         id="rect4391"
+         width="3"
+         height="24"
+         x="621.60895"
+         y="715.51782" />
+      <rect
+         y="715.51782"
+         x="622.60895"
+         height="24"
+         width="1"
+         id="lll"
+         class="ColorScheme-ButtonBackground"
+         style="opacity:0.8;fill:currentColor;fill-opacity:0.99607843;stroke-width:0.0419079"
+         transform="rotate(90)" />
+    </g>
+    <g
+       id="vertical-line"
+       transform="rotate(90,-742.42854,609.35895)">
+      <rect
+         y="715.51782"
+         x="621.60895"
+         height="24"
+         width="3"
+         id="rect817"
+         style="opacity:1;fill:none;fill-opacity:0.37130803;stroke-width:0.07258662"
+         transform="rotate(90)" />
+      <rect
+         transform="rotate(90)"
+         style="opacity:0.5;fill:currentColor;fill-opacity:0.99607843;stroke-width:0.0419079"
+         class="ColorScheme-Text"
+         id="rect819"
+         width="1"
+         height="24"
+         x="622.60895"
+         y="715.51782" />
+    </g>
+  </g>
+</svg>

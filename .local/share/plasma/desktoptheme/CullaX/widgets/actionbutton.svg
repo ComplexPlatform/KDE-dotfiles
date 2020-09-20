@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="52"
+   height="116.00003"
+   viewBox="0 0 52 116.00004"
+   version="1.1"
+   id="svg2223"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="actionbutton.svg">
+  <defs
+     id="defs2217" />
+  <style
+     id="current-color-scheme"
+     type="text/css">
+      .ColorScheme-Text {
+      }
+      .ColorScheme-Background{
+      }
+      .ColorScheme-Highlight{
+      }
+      .ColorScheme-ViewText {
+      }
+      .ColorScheme-ViewBackground{
+      }
+      .ColorScheme-ViewHover {
+      }
+      .ColorScheme-ViewFocus{
+      }
+      .ColorScheme-ButtonText {
+      }
+      .ColorScheme-ButtonBackground{
+      }
+      .ColorScheme-ButtonHover {
+      }
+      .ColorScheme-ButtonFocus{
+      }
+  </style>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="29.0884"
+     inkscape:cy="64.930383"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10" />
+  <metadata
+     id="metadata2220">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(581.78571,-459.80539)">
+    <g
+       id="hover"
+       transform="translate(0,32)">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.29698485;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect822"
+         width="32"
+         height="32"
+         x="-571.78571"
+         y="469.80539" />
+      <circle
+         class="ColorScheme-ViewHover"
+         style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.45461965;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle824"
+         cx="-555.78571"
+         cy="485.80542"
+         r="13.0275" />
+    </g>
+    <g
+       id="pressed">
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.62727272;stroke:none;stroke-width:0.29698485;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect828"
+         width="32"
+         height="32"
+         x="-571.78571"
+         y="533.80542" />
+      <circle
+         r="11"
+         class="ColorScheme-ViewHover"
+         style="opacity:0.66000001;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.33340144;stroke-miterlimit:4;stroke-dasharray:none"
+         id="circle830"
+         cx="-555.78571"
+         cy="549.80542" />
+    </g>
+    <g
+       id="normal">
+      <rect
+         y="469.80539"
+         x="-571.78571"
+         height="32"
+         width="32"
+         id="rect2768"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:none;stroke-width:0.29698485;stroke-miterlimit:4;stroke-dasharray:none" />
+      <circle
+         r="12"
+         cy="485.80539"
+         cx="-555.78571"
+         id="path2776"
+         style="opacity:0.4;fill:none;fill-opacity:1;stroke:currentColor;stroke-width:2.055;stroke-miterlimit:4;stroke-dasharray:none"
+         class="ColorScheme-ViewHover" />
+    </g>
+  </g>
+</svg>
