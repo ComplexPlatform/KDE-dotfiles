@@ -19,3 +19,9 @@ For removing the title bar and adding active/inactive window frame colors, follo
 Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)
 
 Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
+
+The easy way to set this up is to use wpgkt (make sure pywal is installed as well). Install and add templates, import my color scheme, and click set.
+
+## Setup
+
+Work in progress
