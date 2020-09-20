@@ -15,6 +15,7 @@
  - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
  - [Krohnkite](https://store.kde.org/p/1281790/)
+ - [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
 
@@ -30,7 +31,7 @@ Disclaimer: I only discovered ricing back in August so I'm very new to these kin
 You may skip this and just copy the dotfiles in this repo if you want, but I don't know if that will work.
 
  1. Install the programs mentioned above.
- 2. For wpgtk, install the gtk and icon-set template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `konsole`, and `CullaX` (here). You may copy the values but make sure to add them manually, as the files use symbolic links.
+ 2. For wpgtk, install the gtk and icon-set template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `konsole`, and `CullaX` ([here](https://github.com/ComplexPlatform/KDE-dotfiles/tree/master/.config/wpg/templates)). You may copy the values but make sure to add them manually, as the files use symbolic links.
  3. For removing the title bar and adding active/inactive window frame colors, follow [this guide.](https://github.com/waltereikrem/KWin-TilingGuide/) (I recommend using krohnkite for tiling.)
  4. Launch Latte-dock, import my layout, then apply.
  5. Launch wpgtk. under Colors tab, click import and choose `foggy-mountain-color-scheme.json` If you're using spicetify, add `spicetify apply` under `Command:` in wpgtk options so you don't have to do it manually. under Wallpaper tab, click set.
