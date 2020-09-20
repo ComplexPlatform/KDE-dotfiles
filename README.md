@@ -13,4 +13,5 @@
  - [Krohnkite](https://store.kde.org/p/1281790/)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
+
 For removing the title bar and adding active/inactive window frame colors, follow [this guide.](https://github.com/waltereikrem/KWin-TilingGuide/)
