@@ -9,7 +9,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 ## Important stuff
 
  - [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
- - [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal) (REQUIRED)
+ - [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal)
  - [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`) 
  - [CullaX](https://www.opendesktop.org/p/1278039/)
 
