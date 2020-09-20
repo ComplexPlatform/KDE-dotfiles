@@ -54,9 +54,9 @@ Disclaimer: I just got started ricing back in August so I'm very new to this. I 
 
 	When you add a template, you will be asked to locate the specific file. Here's the location for each file if you're going to use my templates:
 
-	- `kdeglobals` - `~/.config/kdeglobals`
-	- `Konsole` - `~/.local/share/konsole/wpgtk.colorscheme` (copy the theme first from this repo)
-	- `CullaX` - `~/.local/share/plasma/desktoptheme/CullaX/colors`
+	+ `kdeglobals` - `~/.config/kdeglobals`
+	+ `Konsole` - `~/.local/share/konsole/wpgtk.colorscheme` (copy the theme first from this repo)
+	+ `CullaX` - `~/.local/share/plasma/desktoptheme/CullaX/colors`
 
 3. For removing the title bar and adding active/inactive window frame colors, follow [this guide.](https://github.com/waltereikrem/KWin-TilingGuide/) (I recommend using `Krohnkite` for tiling.)
 4. Launch `Latte-Dock`, import my layout, then apply.
