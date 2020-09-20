@@ -1,0 +1,8 @@
+//replace the corresponding lines on your kdeglobals file with the values below.
+
+[Colors:View]
+BackgroundNormal=#282828
+
+[WM]
+frame=#53564e
+inactiveFrame=#282828
