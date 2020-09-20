@@ -27,7 +27,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 
 ## Optional stuff
 
--  [Spicetify](https://github.com/khanhas/Spicetify) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
+-  [Spicetify-cli](https://github.com/khanhas/spicetify-cli) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
 - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
 -  [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 -  [Krohnkite](https://store.kde.org/p/1281790/)
@@ -46,6 +46,8 @@ Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make su
 
 **(work in progress)**
 
+If you know how to use `wpgtk`, just copy my templates and import the color scheme.
+
 Disclaimer: I just got started ricing back in August so I'm very new to this. I don't guarantee anything to be working as intended.
 
 1. Install the programs mentioned above.
@@ -62,7 +64,7 @@ Disclaimer: I just got started ricing back in August so I'm very new to this. I 
 4. Launch `Latte-Dock`, import my layout, then apply.
 5. Launch `wpgtk`. under Colors tab, click import and choose a `.json` file from [color schemes](https://github.com/ComplexPlatform/KDE-dotfiles/tree/master/color%20schemes). If you want the one from the preview above, choose `foggy-mountain-color-scheme.json`. Under Wallpaper tab, click set.
 
-	If you're using `spicetify` with `Dribbblish` installed, copy [color.ini](https://github.com/ComplexPlatform/KDE-dotfiles/blob/master/.config/spicetify/Themes/Dribbblish/color.ini) from this repo to `~/.config/spicetify/Themes/Dribbblish/`. Replace when prompted.
+	If you're using `Spicetify` with `Dribbblish` installed, copy [color.ini](https://github.com/ComplexPlatform/KDE-dotfiles/blob/master/.config/spicetify/Themes/Dribbblish/color.ini) from this repo to `~/.config/spicetify/Themes/Dribbblish/`. Replace when prompted.
 
 	Afterwards, run the following:
 
@@ -72,3 +74,5 @@ Disclaimer: I just got started ricing back in August so I'm very new to this. I 
 	```
 
 6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor. For icons, set it to FlattrColor.
+
+If wpgtk doesn't work for some reason, go to Options tab and make sure `pywal` is selected under `Select your backend:`. Click save. Then go to Wallpapes tab, add a random image, and click set after it fetches the colors. Import the color scheme again, click save, and then click set once again.
