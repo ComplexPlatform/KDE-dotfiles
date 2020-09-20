@@ -19,6 +19,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
  - [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
  - [Krohnkite](https://store.kde.org/p/1281790/)
  - [nightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
+ - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
 
