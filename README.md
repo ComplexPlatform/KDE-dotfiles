@@ -62,7 +62,7 @@ Disclaimer: I just got started ricing back in August so I'm very new to this. I 
 
 3. For removing the title bar and adding active/inactive window frame colors, follow [this guide.](https://github.com/waltereikrem/KWin-TilingGuide/) (I recommend using `Krohnkite` for tiling.)
 4. Launch `Latte-Dock`, import my layout, then apply.
-5. Launch `wpgtk`. under Colors tab, click import and choose a `.json` file from [color schemes](https://github.com/ComplexPlatform/KDE-dotfiles/tree/master/color%20schemes). If you want the one from the preview above, choose `foggy-mountain-color-scheme.json`. Under Wallpaper tab, click set.
+5. Launch `wpgtk`. under Colors tab, click import and choose a `.json` file from [color schemes](https://github.com/ComplexPlatform/KDE-dotfiles/tree/master/color%20schemes). If you want the one from the preview above, choose `foggy-mountain.json`. Under Wallpaper tab, click set.
 
 	If you're using `Spicetify` with `Dribbblish` installed, copy [color.ini](https://github.com/ComplexPlatform/KDE-dotfiles/blob/master/.config/spicetify/Themes/Dribbblish/color.ini) from this repo to `~/.config/spicetify/Themes/Dribbblish/`. Replace when prompted.
 
