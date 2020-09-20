@@ -10,7 +10,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 
  - [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
  - [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal) (REQUIRED)
- - [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed in `pacman`) 
+ - [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`) 
  - [CullaX](https://www.opendesktop.org/p/1278039/)
 
 ## Optional stuff
@@ -32,12 +32,12 @@ Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make su
 Disclaimer: I only discovered ricing back in August so I'm very new to these kinds of things. I don't guarantee anything to be working as expected.
 
  1. Install the programs mentioned above.
- 2. For wpgtk, install the gtk and icon-set template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX` (here). You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
+ 2. For wpgtk, install the gtk and icon-set template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX`. You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
  
 When you add a template, you will be asked to locate the specific file. Here's the location for each file if you're going to use my templates:
 
  - `kdeglobals` - `~/.config/kdeglobals`
- - `Konsole` - `~/.local/share/konsole/wpgtk.colorscheme`
+ - `Konsole` - `~/.local/share/konsole/wpgtk.colorscheme` (copy the theme first from this repo)
  - `CullaX` - `~/.local/share/plasma/desktoptheme/CullaX/colors`
 
  3. For removing the title bar and adding active/inactive window frame colors, follow [this guide.](https://github.com/waltereikrem/KWin-TilingGuide/) (I recommend using krohnkite for tiling.)
