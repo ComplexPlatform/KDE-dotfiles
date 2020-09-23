@@ -12,7 +12,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **Terminal:** Konsole
 -  **Shell:** zsh + Oh My Zsh + Powerlevel10k
 -  **Terminal Font:** MesloLGS NF
--  **System Font:** SF Pro Text
+-  **System Font:** SF UI Text
 -  **Bar/Panel:** Latte-Dock
 -  **File Manager:** Dolphin
 -  **Editor:** VS Code
