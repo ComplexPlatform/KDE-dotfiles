@@ -11,7 +11,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **WM:** KWin
 -  **Terminal:** Konsole
 -  **Shell:** zsh + Oh My Zsh + Powerlevel10k
--  **Terminal Font:** MesloLGS NF
+-  **Terminal Font:** SF Mono Powerline
 -  **System Font:** SF UI Text
 -  **Bar/Panel:** Latte-Dock
 -  **File Manager:** Dolphin
