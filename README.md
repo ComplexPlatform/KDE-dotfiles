@@ -33,6 +33,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  [Krohnkite](https://store.kde.org/p/1281790/)
 -  [nightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
+-  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
 
