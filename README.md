@@ -31,14 +31,12 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
 -  [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 -  [Krohnkite](https://store.kde.org/p/1281790/)
--  [nightTab](https://addons.mozilla.org/en-GB/firefox/addon/nighttab/)
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
-The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
-
-Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)
-
+The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
+Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)  
+Startpage source: https://notabug.org/nytly/home  
 Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
 
   
@@ -49,7 +47,7 @@ Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make su
 
 If you know how to use `wpgtk`, just copy my templates and import the color scheme.
 
-Disclaimer: I just got started ricing back in August so I'm very new to this. I don't guarantee anything to be working as intended.
+Note: I just got started ricing back in August so I'm very new to this. I don't guarantee anything to be working as intended.
 
 1. Install the programs mentioned above.
 
