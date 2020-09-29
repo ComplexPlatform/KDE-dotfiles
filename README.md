@@ -1,10 +1,11 @@
 ## Preview
 
-**<p style="text-align: center;">Foggy Mountain</p>**
+**Foggy Mountain**
 ![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/foggy-mountain-preview.png)
 
 
-**<p style="text-align: center;">Coffee</p>**
+**Coffee**
+![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/coffee_preview.png)
 
 ## Overview
 
