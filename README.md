@@ -38,7 +38,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 -  [Krohnkite](https://store.kde.org/p/1281790/)
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
--  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
+-  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
