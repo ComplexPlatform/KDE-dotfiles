@@ -1,6 +1,10 @@
-# KDE-dotfiles
+## Preview
 
+**<p style="text-align: center;">Foggy Mountain</p>**
 ![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/foggy-mountain-preview.png)
+
+
+**<p style="text-align: center;">Coffee</p>**
 
 ## Overview
 
@@ -17,6 +21,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **File Manager:** Dolphin
 -  **Editor:** VS Code
 -  **Browser:** Firefox
+-  **Music Player:** Spotify & ncmpcpp
 
 ## Important stuff
 
@@ -32,12 +37,14 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
 -  [Krohnkite](https://store.kde.org/p/1281790/)
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
+-  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
 The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
 Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)  
 Startpage source: https://notabug.org/nytly/home  
-Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
+Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.  
+ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) 
 
   
 
