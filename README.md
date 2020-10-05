@@ -1,10 +1,10 @@
 ## Preview
 
-**Foggy Mountain**
+## Foggy Mountain
 ![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/foggy-mountain-preview.png)
 
 
-**Coffee**
+## Coffee
 ![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/coffee_preview.png)
 
 ## Overview
@@ -24,6 +24,17 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **Browser:** Firefox
 -  **Music Player:** Spotify & ncmpcpp
 
+The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
+Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)
+
+Startpage source: https://notabug.org/nytly/home
+
+Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
+
+ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config)
+
+Custom Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
+
 ## Important stuff
 
 -  [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
@@ -41,14 +52,6 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
-The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
-Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)  
-Startpage source: https://notabug.org/nytly/home  
-Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.  
-ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) 
-
-  
-
 ## Setup
 
 **(work in progress)**
@@ -59,7 +62,7 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 
 1. Install the programs mentioned above.
 
-2. For `wpgtk`, install the gtk and icon-set template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX`. You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
+2. For `wpgtk`, install the gtk and template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX`. You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
 
 	When you add a template, you will be asked to locate the specific file. Here's the location for each file if you're going to use my templates:
 
@@ -80,6 +83,6 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 	spicetify apply
 	```
 
-6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor. For icons, set it to FlattrColor.
+6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor. For icons, just copy my custom Papirus icons to `~/.local/share/icons` and apply.
 
 If wpgtk doesn't work for some reason, go to Options tab and make sure `pywal` is selected under `Select your backend:`. Click save. Then go to Wallpapes tab, add a random image, and click set after it fetches the colors. Import the color scheme again, click save, and then click set once again.
