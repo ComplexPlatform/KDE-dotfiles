@@ -1,13 +1,18 @@
-## Preview
+<h1 align="center"> Preview </h1>
 
-## Foggy Mountain
-![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/foggy-mountain-preview.png)
+<h3 align="center"> Blossom </h3>
 
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/blossom.png)
 
-## Coffee
-![Preview](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/coffee_preview.png)
+<h3 align="center"> Coffee </h3>
 
-## Overview
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/coffee.png)
+
+<h3 align="center"> Foggy Mountain </h3>
+
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/foggy-mountain.png)
+
+# Overview
 
 To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient.
 
@@ -31,18 +36,18 @@ Startpage source: https://notabug.org/nytly/home
 
 Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
 
-ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config)
+ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
 
 Custom Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
 
-## Important stuff
+# Important stuff
 
 -  [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
 -  [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal)
 -  [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`)
 -  [CullaX](https://www.opendesktop.org/p/1278039/)
 
-## Optional stuff
+# Optional stuff
 
 -  [Spicetify-cli](https://github.com/khanhas/spicetify-cli) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
 - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
@@ -52,7 +57,7 @@ Custom Papirus icons are made using [oomox](https://github.com/themix-project/oo
 -  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
-## Setup
+# Setup
 
 **(work in progress)**
 

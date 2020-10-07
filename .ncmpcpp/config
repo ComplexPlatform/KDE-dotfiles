@@ -1,3 +1,6 @@
+# MPD
+mpd_crossfade_time = 2
+
 ### Directories ###
 ncmpcpp_directory = ~/.ncmpcpp
 
@@ -11,11 +14,19 @@ ignore_leading_the = "yes"
 allow_for_physical_item_deletion = "no"
 
 ### Visualizer ###
-visualizer_fifo_path = /tmp/mpd.fifo
-visualizer_output_name = "mpd_visualizer"
-visualizer_in_stereo = "yes"
-visualizer_sync_interval = 30
-visualizer_look = ●●
+#visualizer_fifo_path = /tmp/mpd.fifo
+#visualizer_output_name = "mpd_visualizer"
+#visualizer_in_stereo = "yes"
+#visualizer_sync_interval = 30
+#visualizer_look = ●●
+
+visualizer_in_stereo = "no"
+visualizer_fifo_path = "/tmp/mpd.fifo"
+visualizer_output_name = "Visualizer"
+visualizer_sync_interval = "10"
+visualizer_type = "wave"
+visualizer_look = "▗"
+visualizer_color = "red,magenta,cyan,green,yellow"
 
 ### Appearance ###
 colors_enabled = "yes"
@@ -34,7 +45,7 @@ titles_visibility = "no"
 # Progress bar #
 progressbar_look = "▂▂▂"
 progressbar_color = "black"
-progressbar_elapsed_color = "yellow"
+progressbar_elapsed_color = "red"
 
 # Alternative UI
 alternative_ui_separator_color = "black"
