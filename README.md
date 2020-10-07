@@ -1,8 +1,8 @@
-<h1 align="center"> Preview </h1>
+<h2 align="center"> Preview </h2>
 
 <h3 align="center"> Blossom </h3>
 
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/blossom.png)
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/blossom1.png)
 
 <h3 align="center"> Coffee </h3>
 
