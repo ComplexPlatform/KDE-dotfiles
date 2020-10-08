@@ -4,6 +4,8 @@
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/flowers.png)
 
+<div align="center"> Added new GTK theme for Flowers (based on Materia GTK). </div>
+
 <h3 align="center"> Coffee </h3>
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/coffee.png)
@@ -38,7 +40,7 @@ Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make su
 
 ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
 
-Custom Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
+Materia GTK themes and Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
 
 ## Important stuff
 
@@ -67,7 +69,7 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 
 1. Install the programs mentioned above.
 
-2. For `wpgtk`, install the gtk and template as instructed [here.](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX`. You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
+2. For `wpgtk`, install the GTK template as instructed [here](https://github.com/deviantfero/wpgtk/wiki/Installation#default-templates) (skip this if you're going to use my GTK themes). For custom templates, follow the documentation. I have a template for `kdeglobals`, `Konsole`, and `CullaX`. You may copy the values but make sure to add them manually from the GUI, as the files use symbolic links.
 
 	When you add a template, you will be asked to locate the specific file. Here's the location for each file if you're going to use my templates:
 
@@ -88,6 +90,6 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 	spicetify apply
 	```
 
-6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor. For icons, just copy my custom Papirus icons to `~/.local/share/icons` and apply.
+6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor if you're using wpgtk's GTK template. For icons, just copy my custom Papirus icons to `~/.local/share/icons` and apply.
 
 If wpgtk doesn't work for some reason, go to Options tab and make sure `pywal` is selected under `Select your backend:`. Click save. Then go to Wallpapes tab, add a random image, and click set after it fetches the colors. Import the color scheme again, click save, and then click set once again.
