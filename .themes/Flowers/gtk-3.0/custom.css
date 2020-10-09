@@ -9,6 +9,20 @@
 padding: 20px;
 }
 
+.text-button:hover {
+  color: #D68A8D;
+  transition: 0.3s;
+}
+
+.image-button {
+  color: #92BAB5;
+  margin-left: 4px;
+  margin-right: 4px;
+  padding-left: 1px;
+  padding-right: 1px;
+  transition: 0.3s;
+  border-radius: 99px;
+}
 /**********
  * Thunar *
  **********/

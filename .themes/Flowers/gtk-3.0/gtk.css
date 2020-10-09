@@ -1412,10 +1412,10 @@ searchbar > revealer > box {
   color: rgba(237, 237, 237, 0.5);
 }
 
-.titlebar:backdrop {
+/*.titlebar:backdrop {
   background-color: #1e2223;
   color: rgba(237, 237, 237, 0.7);
-}
+}*/
 
 .titlebar:backdrop:disabled {
   color: rgba(237, 237, 237, 0.3);
