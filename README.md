@@ -1,4 +1,4 @@
-<h2 align="center"> Preview </h2>
+<h2 align="center"> :camera: Preview :camera: </h2>
 
 <h3 align="center"> Urban </h3>
 
@@ -33,7 +33,8 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **Browser:** Firefox
 -  **Music Player:** Spotify & ncmpcpp
 
-The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)  
+The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
+
 Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)
 
 Startpage source: https://notabug.org/nytly/home
