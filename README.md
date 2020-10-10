@@ -8,8 +8,6 @@
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/flowers.png)
 
-<div align="center"> Added new GTK theme for Flowers (based on Materia GTK). </div>
-
 <h3 align="center"> Coffee </h3>
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/coffee.png)
@@ -30,7 +28,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **Terminal Font:** SF Mono Powerline
 -  **System Font:** SF UI Text
 -  **Bar/Panel:** Latte-Dock
--  **File Manager:** Dolphin
+-  **File Manager:** ~~Dolphin~~ Thunar
 -  **Editor:** VS Code
 -  **Browser:** Firefox
 -  **Music Player:** Spotify & ncmpcpp
