@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/.assets/header.png)
+![header](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/.assets/header.png)
 
 <h2 align="center"> Preview </h2>
 
