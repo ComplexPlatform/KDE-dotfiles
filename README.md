@@ -1,4 +1,4 @@
-![header](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/.assets/header_.png)
+<p align="center"><a name="top" href="#envelope-overview"><img src="https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/.assets/header_.png"></a></p>
 
 <h2 align="center"> Preview </h2>
 
