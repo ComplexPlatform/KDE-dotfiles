@@ -1,5 +1,9 @@
 <h2 align="center"> Preview </h2>
 
+<h3 align="center"> Urban </h3>
+
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/urban.png)
+
 <h3 align="center"> Flowers </h3>
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/flowers.png)
@@ -16,7 +20,7 @@
 
 ## Overview
 
-To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient.
+To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient. Each color scheme has its own corresponding GTK and icon themes.
 
 -  **OS:** Manjaro
 -  **DE:** Plasma

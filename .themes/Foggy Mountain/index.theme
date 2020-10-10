@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Foggy Mountain-dark-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Foggy Mountain-dark-compact
+MetacityTheme=Foggy Mountain-dark-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
