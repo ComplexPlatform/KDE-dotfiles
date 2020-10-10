@@ -1,4 +1,4 @@
-<h2 align="center"> :camera: Preview :camera: </h2>
+<h2 align="center"> Preview </h2>
 
 <h3 align="center"> Urban </h3>
 
@@ -16,7 +16,7 @@
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/foggy-mountain.png)
 
-## Overview
+## :envelope: Overview
 
 To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient. Each color scheme has its own corresponding GTK and icon themes.
 
@@ -45,14 +45,14 @@ ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/mast
 
 Materia GTK themes and Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
 
-## Important stuff
+## :pushpin: Important stuff
 
 -  [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
 -  [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal)
 -  [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`)
 -  [CullaX](https://www.opendesktop.org/p/1278039/)
 
-## Optional stuff
+## :paperclip: Optional stuff
 
 -  [Spicetify-cli](https://github.com/khanhas/spicetify-cli) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
 - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
@@ -62,7 +62,7 @@ Materia GTK themes and Papirus icons are made using [oomox](https://github.com/t
 -  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 
-## Setup
+## :hammer_and_wrench: Setup
 
 **(work in progress)**
 
