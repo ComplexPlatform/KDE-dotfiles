@@ -5,7 +5,7 @@ mpd_crossfade_time = 2
 ncmpcpp_directory = ~/.ncmpcpp
 
 ### Behaviour ###
-# execute_on_song_change = "bash ~/.config/ncmpcpp/mpd-notification"
+execute_on_song_change = "bash ~/.ncmpcpp/mpd-notification"
 message_delay_time = 1
 playlist_disable_highlight_delay = 2
 autocenter_mode = "yes"
