@@ -5,13 +5,14 @@ mpd_crossfade_time = 2
 ncmpcpp_directory = ~/.ncmpcpp
 
 ### Behaviour ###
-execute_on_song_change = "bash ~/.ncmpcpp/mpd-notification"
+execute_on_song_change = notify-send "Now Playing ♫" "$(mpc current)"
 message_delay_time = 1
 playlist_disable_highlight_delay = 2
 autocenter_mode = "yes"
 centered_cursor = "yes"
 ignore_leading_the = "yes"
 allow_for_physical_item_deletion = "no"
+follow_now_playing_lyrics = "yes"
 
 ### Visualizer ###
 #visualizer_fifo_path = /tmp/mpd.fifo
