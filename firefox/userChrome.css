@@ -14,7 +14,7 @@
    --mff-tab-font-weight: 400;
    --mff-tab-height: 32px;
    --mff-tab-pinned-bg: var(--color1);
-   --mff-tab-selected-bg: var(--color2);
+   --mff-tab-selected-bg: var(--color1);
    --mff-tab-soundplaying-bg: var(--color9);
    --mff-urlbar-color: var(--color11);
    --mff-urlbar-focused-color: var(--color11);
@@ -49,6 +49,13 @@
 
 .tab-background[selected="true"] {
   background: var(--mff-tab-selected-bg) !important;
+}
+
+.tab-text[selected="true"] {
+  font-family: var(--mff-tab-font-family);
+  font-weight: var(--mff-tab-font-weight);
+  font-size: var(--mff-tab-font-size) !important;
+  color: var(--mff-bg);
 }
 
 .tab-background:not[visuallyselected] {
@@ -138,10 +145,10 @@ width: 50% !important;
   background-color: var(--mff-tab-soundplaying-bg) !important;
 }
 
-#tabs-newtab-button {
+/*#tabs-newtab-button {
   list-style-image: url("add.svg") !important;
   opacity: 0.7;
-}
+}*/
 
 .tab-icon-sound {
   display: none !important;
@@ -153,6 +160,17 @@ width: 50% !important;
   | || (_) | (_) | |__| _ \/ _ \|   /
   |_| \___/ \___/|____|___/_/  \_\_|_\
 */
+
+/* remove url bar shadow */
+
+#urlbar,
+.searchbar-textbox {
+  box-shadow: none !important;
+}
+#urlbar:hover,
+.searchbar-textbox:hover {
+  box-shadow: none !important;
+}    
 
 .urlbar-icon > image {
   fill: var(--mff-icon-color) !important;
@@ -214,13 +232,13 @@ width: 50% !important;
   border: none !important;
 }
 
-#back-button {
+/*#back-button {
   list-style-image: url("left-arrow.svg") !important;
 }
 
 #forward-button {
   list-style-image: url("right-arrow.svg") !important;
-}
+}*/
 
 toolbar {
   background-image: none !important;

@@ -57,13 +57,16 @@ alternative_header_second_line_format = {$b{$2%a$9}{ - $7%b$9}{ ($2%y$9)}}|{%D}
 # Song list #
 song_status_format= "$7%t"
 song_list_format = "  %t $R%a %l  "
-song_columns_list_format = "(53)[white]{tr} (45)[blue]{a}"
+#song_columns_list_format = "(53)[white]{tr} (45)[blue]{a}"
+song_columns_list_format = "(53)[white]{tr} (45)[red]{a}"
 
 song_library_format = {{%a - %t} (%b)}|{%f}
 
 # Colors #
-main_window_color = "blue"
-current_item_prefix = "$(blue)$r"
+#main_window_color = "blue"
+#current_item_prefix = "$(blue)$r"
+main_window_color = "red"
+current_item_prefix = "$(red)$r"
 current_item_suffix = "$/r$(end)"
 
 current_item_inactive_column_prefix = red
