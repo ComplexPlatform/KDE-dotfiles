@@ -47,14 +47,15 @@ ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/mast
 
 Materia GTK themes and Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
 
-## :pushpin: Important stuff
+## :pushpin: Dependencies
 
--  [Latte-Dock](https://github.com/KDE/latte-dock) & [Moe Layout](https://store.kde.org/p/1373008/)
+-  [Latte-Dock](https://github.com/KDE/latte-dock)
 -  [wpgtk](https://github.com/deviantfero/wpgtk) & [pywal](https://github.com/dylanaraps/pywal)
 -  [qt5-styleplugins](https://github.com/qt/qtstyleplugins) ([AUR](https://aur.archlinux.org/packages/qt5-styleplugins/), can also be installed with `pacman`)
 -  [CullaX](https://www.opendesktop.org/p/1278039/)
+- Required widgets for Latte: [Event Calendar](https://store.kde.org/p/998901/) (for vertical bar clock), [Better inline clock](https://store.kde.org/p/1245902/), [Virtual Desktop Bar](https://store.kde.org/p/1315319/), [Latte Separator](https://store.kde.org/p/1295376/), and [Window Title](https://store.kde.org/p/1274218/)
 
-## :paperclip: Optional stuff
+## :paperclip: Recommendations
 
 -  [Spicetify-cli](https://github.com/khanhas/spicetify-cli) (make sure to install [Dribbblish](https://github.com/morpheusthewhite/spicetify-themes/tree/master/Dribbblish) as well.)
 - VS Code Extension - [Wal Theme](https://marketplace.visualstudio.com/items?itemName=dlasagno.wal-theme)
@@ -63,6 +64,7 @@ Materia GTK themes and Papirus icons are made using [oomox](https://github.com/t
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
 -  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
+- [Tabliss](tabliss.io)
 
 ## :hammer_and_wrench: Setup
 
@@ -91,8 +93,8 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 	Afterwards, run the following:
 
 	```
-	spicetify config color_scheme pywal
-	spicetify apply
+	$ spicetify config color_scheme pywal
+	$ spicetify apply
 	```
 
 6. Go to System Settings. For Plasma Style, set it to CullaX. For Application Style, set it to gtk2. Click `Configure GNOME/GTK Application Style...`, set the GTK2 and GTK3 theme to FlatColor if you're using wpgtk's GTK template. For icons, just copy my custom Papirus icons to `~/.local/share/icons` and apply.
