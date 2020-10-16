@@ -22,7 +22,7 @@
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/foggy-mountain.png)
 
-## :sparkling_heart: Thanks for visiting! 
+## :sparkles: Thanks for visiting! 
 
 To give you an idea on how this works, I use `wpgtk` with templates to make setting color schemes across many applications convenient. Each color scheme has its own corresponding GTK and icon themes.
 
@@ -45,7 +45,7 @@ Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minim
 
 Startpage source: https://notabug.org/nytly/home
 
-Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/). Make sure to install the required widgets if you're going to use it.
+Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/).
 
 ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
 
@@ -77,7 +77,7 @@ Note: I just got started ricing back in August so I'm very new to this. I don't 
 
 Set your Global Theme to Breeze Dark before you proceed.
 
-Install the dependencies:
+**Install the dependencies:**
 
 - ```bash
   # Use your helper of choice
@@ -193,3 +193,9 @@ To change the titlebar size:
 - System Settings > Application Style > Window Decorations, click the edit icon on `Breeze`. Change button size to whatever you want.
 
 </details>
+
+## :sparkling_heart: Credits
+
+- [owl4ce](https://github.com/owl4ce/)
+- [elenapan](https://github.com/elenapan/)
+- [addy-dclxvi](https://github.com/addy-dclxvi/)
