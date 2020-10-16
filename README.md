@@ -32,7 +32,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **Terminal:** Konsole
 -  **Shell:** zsh + Oh My Zsh + Powerlevel10k
 -  **Terminal Font:** SF Mono Powerline
--  **System Font:** SF UI Text
+-  **System Font:** SF Pro Text
 -  **Bar/Panel:** Latte-Dock
 -  **File Manager:** ~~Dolphin~~ Thunar
 -  **Editor:** VS Code
