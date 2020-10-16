@@ -64,7 +64,7 @@ Materia GTK themes and Papirus icons are made using [oomox](https://github.com/t
 -  [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal)
 -  [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp)
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
-- [Tabliss](tabliss.io)
+- [Tabliss](https://tabliss.io/)
 
 ## :hammer_and_wrench: Setup
 
