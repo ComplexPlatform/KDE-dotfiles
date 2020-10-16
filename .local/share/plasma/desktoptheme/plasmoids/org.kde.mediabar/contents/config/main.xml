@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+  <kcfgfile name=""/>
+
+  <group name="General">
+	   <entry name="minimumWidth" type="Int">
+		<default>240</default>
+		<label>Minimum text width when in panel.</label>
+	</entry>
+	  <entry name="maximumWidth" type="Int">
+		<default>360</default>
+		<label>Maximum text width when in panel.</label>
+	</entry>
+	 <entry name="preferredSource" type="String">
+		<default>@multiplex</default>
+		<label>Preferred source name for MPRIS2</label>
+	</entry>
+	<entry name="useWheelForSeeking" type="Bool">
+		<default>false</default>
+		<label>Allow media seeking using the mouse scroll wheel.</label>
+	</entry>
+  </group>
+
+</kcfg>

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/marc/.config/wpg/wallpapers/blossom1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2e3233",
+        "foreground": "#ededed",
+        "cursor": "#ededed"
+    },
+    "colors": {
+        "color0": "#2e3233",
+        "color1": "#d68a8d",
+        "color2": "#d1b3af",
+        "color3": "#9b9d77",
+        "color4": "#7ca3a7",
+        "color5": "#e1dad9",
+        "color6": "#92bab5",
+        "color7": "#ededed",
+        "color8": "#6a6f73",
+        "color9": "#d68a8d",
+        "color10": "#d1b3af",
+        "color11": "#9b9d77",
+        "color12": "#7ca3a7",
+        "color13": "#e1dad9",
+        "color14": "#92bab5",
+        "color15": "#ededed"
+    }
+}

@@ -1,0 +1,62 @@
+# Translation of plasmaConfSaver in es
+# Copyright (C) 2019
+# This file is distributed under the same license as the plasmaConfSaver package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmaConfSaver \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-12 20:32+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: VALENTIN POHU <pohu.valentin@cairn-devices.eu>\n"
+"Language-Team: FRENCH <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/ui/FullRepresentation.qml:89
+msgid "Enter customization title"
+msgstr "Entrez le titre de la personnalisation"
+
+#: ../contents/ui/FullRepresentation.qml:104
+msgid "Save"
+msgstr "Sauvegarder"
+
+#: ../contents/ui/FullRepresentation.qml:105
+msgid "Save your current customization"
+msgstr "Sauvegardez votre personnalisation actuelle"
+
+#: ../contents/ui/FullRepresentation.qml:254
+msgid "Import"
+msgstr "Importer"
+
+#: ../contents/ui/FullRepresentation.qml:255
+msgid "Import a customization"
+msgstr "Importer une personnalisation"
+
+#: ../contents/ui/FullRepresentation.qml:369
+msgid "Load"
+msgstr "Charger"
+
+#: ../contents/ui/FullRepresentation.qml:370
+msgid "Load this customization"
+msgstr "Charger cette personnalisation"
+
+#: ../contents/ui/FullRepresentation.qml:432
+msgid "Export"
+msgstr "Exporter"
+
+#: ../contents/ui/FullRepresentation.qml:433
+msgid "Export this customization"
+msgstr "Exporter cette personnalisation"
+
+#: ../contents/ui/FullRepresentation.qml:456
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../contents/ui/FullRepresentation.qml:457
+msgid "Delete this customization"
+msgstr "Supprimer cette personnalisation"

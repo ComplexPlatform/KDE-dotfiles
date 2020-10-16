@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/marc/.config/wpg/wallpapers/wp5089612-ultra-hd-desktop-anime-sky-wallpapers.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#fafafa",
+        "foreground": "#373f48",
+        "cursor": "#373f48"
+    },
+    "colors": {
+        "color0": "#fafafa",
+        "color1": "#edb7c6",
+        "color2": "#d18173",
+        "color3": "#50928c",
+        "color4": "#11455e",
+        "color5": "#58773e",
+        "color6": "#d67b89",
+        "color7": "#373f48",
+        "color8": "#c9c9ca",
+        "color9": "#d5a2b2",
+        "color10": "#d18173",
+        "color11": "#50928c",
+        "color12": "#11455e",
+        "color13": "#58773e",
+        "color14": "#d67b89",
+        "color15": "#373f48"
+    }
+}

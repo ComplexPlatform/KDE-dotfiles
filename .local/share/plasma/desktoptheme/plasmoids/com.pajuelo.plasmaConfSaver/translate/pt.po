@@ -1,0 +1,62 @@
+# Translation of plasmaConfSaver in es
+# Copyright (C) 2019
+# This file is distributed under the same license as the plasmaConfSaver package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: plasmaConfSaver \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-05-12 18:20+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../contents/ui/FullRepresentation.qml:89
+msgid "Enter customization title"
+msgstr "Introduza o titulo da customização"
+
+#: ../contents/ui/FullRepresentation.qml:104
+msgid "Save"
+msgstr "Salvar"
+
+#: ../contents/ui/FullRepresentation.qml:105
+msgid "Save your current customization"
+msgstr "Salvar atual customização"
+
+#: ../contents/ui/FullRepresentation.qml:254
+msgid "Import"
+msgstr "Importar"
+
+#: ../contents/ui/FullRepresentation.qml:255
+msgid "Import a customization"
+msgstr "Importar customização"
+
+#: ../contents/ui/FullRepresentation.qml:369
+msgid "Load"
+msgstr "Carregar"
+
+#: ../contents/ui/FullRepresentation.qml:370
+msgid "Load this customization"
+msgstr "Carregar esta customização"
+
+#: ../contents/ui/FullRepresentation.qml:432
+msgid "Export"
+msgstr "Exportar"
+
+#: ../contents/ui/FullRepresentation.qml:433
+msgid "Export this customization"
+msgstr "Exportar customização"
+
+#: ../contents/ui/FullRepresentation.qml:456
+msgid "Delete"
+msgstr "Apagar"
+
+#: ../contents/ui/FullRepresentation.qml:457
+msgid "Delete this customization"
+msgstr "Apagar esta customização"

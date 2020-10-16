@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/marc/.config/wpg/wallpapers/urban3_01.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#33353a",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#33353a",
+        "color1": "#aa7d7b",
+        "color2": "#65a6aa",
+        "color3": "#c2b895",
+        "color4": "#7a87b1",
+        "color5": "#c8acc4",
+        "color6": "#a8abc7",
+        "color7": "#c3c3c3",
+        "color8": "#5e646d",
+        "color9": "#aa7d7b",
+        "color10": "#65a6aa",
+        "color11": "#c2b895",
+        "color12": "#7a87b1",
+        "color13": "#c8acc4",
+        "color14": "#a8abc7",
+        "color15": "#c3c3c3"
+    }
+}

@@ -1,0 +1,21 @@
+[Desktop Entry]
+Encoding=UTF-8
+
+Name=MediaBar
+Comment=Media Bar for dock/panel use, based on KDE Plasma Media Player Controls
+Icon=applications-multimedia
+Type=Service
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+
+X-KDE-PluginInfo-Author=Panagiotis Panagiotopoulos
+X-KDE-PluginInfo-Category=Multimedia
+X-KDE-PluginInfo-Email=panagiotopoulos.git@gmail.com
+X-KDE-PluginInfo-License=GPLv3
+X-KDE-PluginInfo-Name=org.kde.mediabar
+X-KDE-PluginInfo-Version=1.1
+X-KDE-PluginInfo-Website=https://github.com/panagiotopoulos/MediaBar
+X-Plasma-StandAloneApp=true
+X-Plasma-Provides=org.kde.plasma.multimediacontrols
+X-KDE-ServiceTypes=Plasma/Applet

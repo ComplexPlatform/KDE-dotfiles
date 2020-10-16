@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Cherry Blossom-light-compact
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Cherry Blossom-light-compact
+MetacityTheme=Cherry Blossom-light-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

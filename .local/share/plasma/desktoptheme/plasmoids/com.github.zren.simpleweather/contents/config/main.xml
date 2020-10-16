@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0 http://www.kde.org/standards/kcfg/1.0/kcfg.xsd">
+	<kcfgfile name=""/>
+
+	<group name="General">
+		<entry name="showBackground" type="bool">
+			<default>false</default>
+		</entry>
+		<entry name="updateInterval" type="int">
+			<default>30</default>
+		</entry>
+		<entry name="source" type="string">
+			<!-- <default>envcan|weather|Toronto, ON</default> -->
+			<default></default>
+		</entry>
+		<entry name="fontFamily" type="string">
+			<default></default>
+		</entry>
+		<entry name="bold" type="bool">
+			<default>true</default>
+		</entry>
+		<entry name="showWarnings" type="bool">
+			<default>true</default>
+		</entry>
+		<entry name="minMaxFontSize" type="int">
+			<default>14</default>
+		</entry>
+		<entry name="forecastFontSize" type="int">
+			<default>12</default>
+		</entry>
+		<entry name="textColor" type="string">
+			<default></default>
+		</entry>
+		<entry name="outlineColor" type="string">
+			<default></default>
+		</entry>
+		<entry name="showOutline" type="bool">
+			<default>false</default>
+		</entry>
+	</group>
+
+	<group name="Units">
+		<!-- See https://github.com/KDE/kunitconversion/blob/master/src/unit.h -->
+		<entry name="temperatureUnitId" type="int">
+			<label>LocaleDefault = 0, Kelvin = 6000, Celsius = 6001, Fahrenheit = 6002</label>
+			<default>0</default>
+		</entry>
+		<entry name="windSpeedUnitId" type="int">
+			<label>LocaleDefault = 0, MeterPerSecond = 9000, KilometerPerHour = 9001, MilePerHour = 9002, Knot = 9005, Beaufort = 9008</label>
+			<default>0</default>
+		</entry>
+		<entry name="pressureUnitId" type="int">
+			<label>LocaleDefault = 0, Hectopascal = 5008, Kilopascal = 5007, Millibar = 5022, InchesOfMercury = 5028</label>
+			<default>0</default>
+		</entry>
+		<entry name="visibilityUnitId" type="int">
+			<label>LocaleDefault = 0, Kilometer = 2007, Mile = 2024</label>
+			<default>0</default>
+		</entry>
+	</group>
+
+</kcfg>
+

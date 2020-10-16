@@ -1,0 +1,18 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=PlasmaConfigSaver
+Comment=This is a plasma 5 widget that allows you to save your current desktop layout configuration and restore previous saved layouts on the fly.
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=Alberto Pajuelo Montes
+X-KDE-PluginInfo-Email=paju1986@gmail.com
+X-KDE-PluginInfo-License=GPL3
+X-KDE-PluginInfo-Name=com.pajuelo.plasmaConfSaver
+X-KDE-PluginInfo-Version=1.3
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
+X-Plasma-RemoteLocation=
+X-KDE-PluginInfo-Category=Application Launchers
+Icon=folder-favorites
