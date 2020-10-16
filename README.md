@@ -81,7 +81,7 @@ Set your Global Theme to Breeze Dark before you proceed.
 
 - ```bash
   # Use your helper of choice
-  yay -S latte-dock-git wpgtk-git qt5-styleplugins
+  yay -S latte-dock-git wpgtk-git qt5-styleplugins python-pywal
   ```
 <details open>
 <summary><strong>Clone and copy most of the stuff</strong></summary>
