@@ -118,7 +118,8 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
 
 <details open>
   <summary><strong>wpgtk</strong></summary>
-	Add wallpapers and import color schemes
+
+1. Add wallpapers and import color schemes:
 
 - ```bash
   # Assuming you're in KDE-Dotfiles directory
@@ -131,7 +132,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   ```
 - ```bash
   # Assuming you're in KDE-Dotfiles directory
-  #Import color schemes
+  # Import color schemes
   wpg -i foggy-mountain_01.jpg colorschemes/foggy-mountain.json
   wpg -i coffee.jpg colorschemes/coffee.json
   wpg -i flowers.jpg colorschemes/flowers.json
@@ -139,7 +140,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   wpg -i cherryblossom.jpg colorschemes/cherryblossom.json
   ```
 
-Add templates:
+2. Add templates:
 
 - ```bash
   # Backups are automatically made just in case something goes wrong.
@@ -148,7 +149,7 @@ Add templates:
   wpg -ta ~/.local/share/plasma/desktoptheme/CullaX/colors
   ```
 
-Add variables/keywords to the templates:
+3. Add variables/keywords to the templates:
 
 - ```bash
   # Identify the templates` filenames first on ~/.config/wpg/templates
@@ -160,7 +161,7 @@ Add variables/keywords to the templates:
   cat konsole.base > ~/.config/wpg/templates/<your_konsole>.base
   ```
 
-Set the color scheme:
+4. Set the color scheme:
 
 - ```bash
   wpg -s <scheme>.jpg
@@ -187,7 +188,7 @@ spicetify apply
 - System Settings > Icons, set the icon theme to your theme of choice.
 
 To remove the titlebar buttons:
-- System Settings > Application Style > Window Decorations > Titlebar Buttons, drag the buttons and drop it down to the list.
+- System Settings > Application Style > Window Decorations > Titlebar Buttons, drag the buttons and drop them down to the list.
 
 To change the titlebar size:
 - System Settings > Application Style > Window Decorations, click the edit icon on `Breeze`. Change button size to whatever you want.
