@@ -4,7 +4,7 @@
 
 <h3 align="center"> Cherry Blossom </h3>
 
-![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/cherryblossom2.png)
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/cherryblossom.png)
 
 <h3 align="center"> Urban </h3>
 
