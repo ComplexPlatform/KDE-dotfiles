@@ -124,7 +124,7 @@ smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
 toolBarFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
 
 [Icons]
-Theme=flattrcolor
+Theme=Cherry Blossom
 
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
@@ -154,12 +154,12 @@ View Style=Simple
 Dialog Size=600,480
 
 [WM]
-activeBackground={color1}
-activeBlend={color1}
+activeBackground={color8}
+activeBlend={color8}
 activeFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
-activeForeground={color1}
+activeForeground={color8}
 frame={color1}
-inactiveBackground={color9}
-inactiveBlend={color9}
-inactiveForeground={color9}
+inactiveBackground={color8}
+inactiveBlend={color8}
+inactiveForeground={color8}
 inactiveFrame={color0}
