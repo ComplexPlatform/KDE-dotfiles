@@ -14,7 +14,7 @@
    --mff-tab-font-weight: 400;
    --mff-tab-height: 32px;
    --mff-tab-pinned-bg: var(--color1);
-   --mff-tab-selected-bg: var(--color1);
+   --mff-tab-selected-bg: var(--color8);
    --mff-tab-soundplaying-bg: var(--color9);
    --mff-urlbar-color: var(--color11);
    --mff-urlbar-focused-color: var(--color11);
@@ -51,12 +51,12 @@
   background: var(--mff-tab-selected-bg) !important;
 }
 
-.tab-text[selected="true"] {
+/*.tab-text[selected="true"] {
   font-family: var(--mff-tab-font-family);
   font-weight: var(--mff-tab-font-weight);
   font-size: var(--mff-tab-font-size) !important;
   color: var(--mff-bg);
-}
+}*/
 
 .tab-background:not[visuallyselected] {
   background: var(--mff-tab-selected-bg) !important;
