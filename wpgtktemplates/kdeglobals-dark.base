@@ -123,9 +123,6 @@ shadeSortColumn=true
 smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
 toolBarFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
 
-[Icons]
-Theme=Cherry Blossom
-
 [KDE]
 LookAndFeelPackage=org.kde.breezedark.desktop
 contrast=4
@@ -154,10 +151,10 @@ View Style=Simple
 Dialog Size=600,480
 
 [WM]
-activeBackground={color8}
-activeBlend={color8}
+activeBackground={color1}
+activeBlend={color1}
 activeFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
-activeForeground={color8}
+activeForeground={color1}
 frame={color1}
 inactiveBackground={color8}
 inactiveBlend={color8}

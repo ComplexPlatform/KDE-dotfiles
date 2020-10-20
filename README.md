@@ -156,7 +156,13 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   # Replace <filename>.base with yours
   # Assuming you're in KDE-dotfiles directory
   cd wpgtktemplates
-  cat kdeglobals.base > ~/.config/wpg/templates/<your_kdeglobals>.base
+
+  # For dark color schemes:
+  cat kdeglobals-dark.base > ~/.config/wpg/templates/<your_kdeglobals>.base
+
+  # For light color schemes:
+  cat kdeglobals-light.base > ~/.config/wpg/templates/<your_kdeglobals>.base
+  
   cat colors.base > ~/.config/wpg/templates/<your_cullax_colors>.base
   cat konsole.base > ~/.config/wpg/templates/<your_konsole>.base
   ```
