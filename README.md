@@ -35,7 +35,7 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **System Font:** SF Pro Text
 -  **Bar/Panel:** Latte-Dock
 -  **File Manager:** ~~Dolphin~~ Thunar
--  **Editor:** VS Code
+-  **Editor:** VS Code, Vim
 -  **Browser:** Firefox
 -  **Music Player:** Spotify & ncmpcpp
 
