@@ -16,8 +16,8 @@
    --mff-tab-pinned-bg: var(--color1);
    --mff-tab-selected-bg: var(--color8);
    --mff-tab-soundplaying-bg: var(--color9);
-   --mff-urlbar-color: var(--color11);
-   --mff-urlbar-focused-color: var(--color11);
+   --mff-urlbar-color: var(--color7);
+   --mff-urlbar-focused-color: var(--color7);
    --mff-urlbar-font-family: "Cantarell", serif;
    --mff-urlbar-font-size: 12pt;
    --mff-urlbar-font-weight: 700;
