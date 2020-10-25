@@ -33,6 +33,7 @@ Plug 'fehawen/cs.vim'
 call plug#end()
 
 colorscheme cs
+set laststatus=2 
 
 " NERDTRee
 map <C-n> :NERDTreeToggle<CR>
@@ -107,28 +108,3 @@ set smartcase
 " Store info from no more than 100 files at a time, 9999 lines of text
 " 100kb of data. Useful for copying large amounts of data between files.
 set viminfo='100,<9999,s100
-
-
-" Set status line display
-set laststatus=2
-hi StatusLine ctermfg=NONE ctermbg=red cterm=NONE
-hi StatusLineNC ctermfg=black ctermbg=red cterm=NONE
-hi User1 ctermfg=black ctermbg=magenta
-hi User2 ctermfg=NONE ctermbg=NONE
-hi User3 ctermfg=black ctermbg=blue
-hi User4 ctermfg=black ctermbg=cyan
-set statusline=\                    " Padding
-set statusline+=%f                  " Path to the file
-set statusline+=\ %1*\              " Padding & switch colour
-set statusline+=%y                  " File type
-set statusline+=\ %2*\              " Padding & switch colour
-set statusline+=%=                  " Switch to right-side
-set statusline+=\ %3*\              " Padding & switch colour
-set statusline+=line                " of Text
-set statusline+=\                   " Padding
-set statusline+=%l                  " Current line
-set statusline+=\ %4*\              " Padding & switch colour
-set statusline+=of                  " of Text
-set statusline+=\                   " Padding
-set statusline+=%L                  " Total line
-set statusline+=\                   " Padding
