@@ -182,6 +182,7 @@ Unfortunately, you have to set your wallpaper manually.
 If you're using `Spicetify` with `Dribbblish`, run the following:
 
 ```bash
+xrdb -merge ~/.cache/wal/colors.Xresources
 spicetify config color_scheme pywal
 spicetify apply
 ```
