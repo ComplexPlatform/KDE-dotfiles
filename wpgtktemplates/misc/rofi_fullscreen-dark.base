@@ -1,0 +1,8 @@
+* {{
+  accent:           {active};
+  background:       {color0};
+  background-light: {color8};
+  background-focus: {color8};
+  foreground:       {color7};
+  foreground-list:  {color7};
+}}

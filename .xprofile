@@ -1,0 +1,5 @@
+# Load Xresources
+xrdb -load ~/.cache/wal/colors.Xresources &
+
+# Start compositor
+picom --config ~/.config/picom/picom.conf &
