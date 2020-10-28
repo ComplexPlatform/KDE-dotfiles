@@ -16,7 +16,6 @@
 set nocompatible
 
 " Automatic vim-plug installation
-
 if empty(glob('~/.vim/autoload/plug.vim'))
     silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
     \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
@@ -38,6 +37,11 @@ set laststatus=2
 " NERDTRee
 map <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
+
+" Mappings
+" Shortcut for editing gtk.css
+" removes separators, backdrop color and imports custom.css
+map <leader>g Go@import url('custom.css');<ESC>gg/separator<CR>12n3jf(vi(y:%s/<C-r>"/0,0,0,0<CR>gg/backdrop<CR>3nV2jddd
 
 "Always show current position
 set ruler
