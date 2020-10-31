@@ -1,0 +1,86 @@
+/* BACKUP
+	--dark_color1: var(--color0);
+	--dark_color2: var(--color8);
+	--dark_color3: var(--color8);
+	--dark_color4: var(--color0);
+
+	--word_color1: var(--color1);
+	--word_color2: #c0c0c0;
+	--word_color3: #dfd7d7;
+
+	--light_color1: #e1e0e6;
+	--light_color1: #adabb9;
+	--light_color3: #9795a3;
+	--light_color4: #878492;
+
+	--other_color1: #332e56;
+	--other_color2: #4b4757;
+	--other_color3: var(--color7);
+*/
+@import url("/home/marc/.cache/wal/colors.css");
+:root {
+	--dark_color1: var(--color0);
+	--dark_color2: var(--color8);
+	--dark_color3: var(--color8);
+	--dark_color4: var(--color0);
+
+	--word_color1: var(--color1);
+	--word_color2: var(--color7);
+	--word_color3: var(--color7);
+
+	--light_color1: var(--color7);
+	--light_color1: var(--color7);
+	--light_color3: var(--color7);
+	--light_color4: var(--color7);
+
+	--other_color1: var(--color0);
+	--other_color2: var(--color0);
+	--other_color3: var(--color7);
+}
+/*================ LIGHT THEME ================*/
+@media {
+	:root:not([style]),
+	:root[style*="--lwt-accent-color:rgb(227, 228, 230);"] {
+		--base_color1: var(--light_color1);
+		--base_color2: var(--light_color2);
+		--base_color3: var(--light_color3);
+		--base_color4: var(--light_color4);
+
+		--outer_color1: var(--other_color1);
+		--outer_color2: var(--other_color2);
+		--outer_color3: var(--other_color3);
+
+		--orbit_color: var(--dark_color3);
+	}
+}
+/*================ DARK THEME ================*/
+@media {
+	:root[style*="--lwt-accent-color:rgb(12, 12, 13);"] {
+		--base_color1: var(--dark_color1);
+		--base_color2: var(--dark_color2);
+		--base_color3: var(--dark_color3);
+		--base_color4: var(--dark_color4);
+
+		--outer_color1: var(--word_color1);
+		--outer_color2: var(--word_color2);
+		--outer_color3: var(--word_color3);
+
+		--orbit_color: var(--light_color3);
+	}
+}
+
+/*============== PRIVATE THEME ==============*/
+@media {
+	:root[privatebrowsingmode="temporary"] {
+		--base_color1: #291d4f;
+		--base_color2: #3c3376;
+		--base_color3: #4f499d;
+		--base_color4: #625fc4;
+
+		--outer_color1: #e571f0;
+		--outer_color2: #d9caf1;
+		--outer_color3: #fff5ff;
+
+		--orbit_color: #b39fe3;
+	}
+}
