@@ -2,8 +2,8 @@
 
 ### Configuration
 accentColor="#ff79c6"
-separator=" "
-useDesktopNames=false
+separator=""
+useDesktopNames=true
 ###
 
 checkForDesktopName() {
@@ -18,6 +18,7 @@ while true; do
     numberOfDesktops=$(wmctrl -d | wc -l)
     moduleText=""
     desktopLabel=""
+    desktopLabelc=""
     for i in $(seq 1 "$numberOfDesktops"); do
         s=$separator
         if [[ $i = "$numberOfDesktops" ]]; then
@@ -26,7 +27,9 @@ while true; do
 
         checkForDesktopName
         if [[ $i = $(qdbus org.kde.KWin /KWin currentDesktop) ]]; then
-            moduleText=$desktopLabel
+            moduleText+="%{T3}$desktopLabelc%{T-} $s "
+        else
+            moduleText+="%{T4}$desktopLabelc%{T-} $s "
         fi
     done
 

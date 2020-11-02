@@ -19,9 +19,11 @@
 [colors]
 
 background = ${xrdb:color0:#222}
-color1 = ${xrdb:color2}
-color2 = ${xrdb:color1}
+color1 = ${xrdb:color1}
+color2 = ${xrdb:color2}
 color3 = ${xrdb:color3}
+color4 = ${xrdb:color4}
+color5 = ${xrdb:color5}
 
 ;  _                    
 ; | |__   __ _ _ __ ___ 
@@ -35,21 +37,14 @@ font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;3
 font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;3
 font-3=IPAGothic:style=Regular:size=11:antialias=true;3
 
-
 height = 35
-;radius = 20
-;Works very well with a ;radius like this! Put it on every bar.
 
 background = ${colors.background}
-;override-redirect = true
 offset-y = 15
-
-;wm-restack = i3
-
 
 [bar/i3]
 inherit = bar/base
-width = 25%
+width = 40%
 
 foreground = ${colors.color1}
 
@@ -60,10 +55,13 @@ modules-left = kde-virtual-desktops xwindow
 [bar/music]
 inherit = bar/base
 enable-ipc = true
-width = 28%
+;width = 28%
+width = 27.7%
 
 foreground = ${colors.color2}
-offset-x = 58.6%
+;offset-x = 58.6%
+;offset-x = 38.6%
+offset-x = 51.6%
 
 ; Spotify (script at github.com/dietervanhoof/polybar-spotify-controls)
 ;modules-left = previous playpause next spotify
@@ -72,14 +70,17 @@ modules-left = mpd
 
 [bar/tray]
 inherit = bar/base
-width = 11.5%
+;width = 20.5%
+width = 19%
 
 padding-right = 0
-offset-x = 87.6%
+;offset-x = 87.6%
+;offset-x = 1539
+offset-x = 80.1%
 
 ;tray-position = right
 
-modules-left = pulseaudio time 
+modules-left = cpu memory pulseaudio time 
 
 ;                      _       _           
 ;  _ __ ___   ___   __| |_   _| | ___  ___ 
@@ -87,6 +88,25 @@ modules-left = pulseaudio time
 ; | | | | | | (_) | (_| | |_| | |  __/\__ \
 ; |_| |_| |_|\___/ \__,_|\__,_|_|\___||___/
                                          
+
+[module/memory]
+type = internal/memory
+interval = 1
+format = <label>
+;label =  %gb_used%/%gb_total%
+label =  %percentage_used%
+label-foreground = ${colors.background} 
+label-background = ${colors.color4} 
+label-padding = 2
+
+[module/cpu]
+type = internal/cpu
+interval = 1
+format = <label>
+label =  %percentage%
+label-foreground = ${colors.background} 
+label-background = ${colors.color5} 
+label-padding = 2
 
 [module/xwindow]
 type = internal/xwindow
@@ -101,7 +121,6 @@ exec = ~/.config/polybar/kde-virtual-desktops
 scroll-up = ~/.config/polybar/kde-previous-desktop
 scroll-down = ~/.config/polybar/kde-next-desktop
 format-padding = 2
-;format = <label-state> <label-mode>
 format-background = ${colors.color1}
 format-foreground = ${colors.background}
 tail = true
@@ -109,27 +128,6 @@ label = %output%
 
 enable-click = true
 reverse-scroll = false
-
-label-focused = 
-label-focused-font = 3
-label-focused-foreground = ${colors.background}
-label-focused-padding = 1
-
-label-unfocused = 
-label-unfocused-font = 2
-label-unfocused-padding = 1
-label-unfocused-foreground = ${colors.background}
-
-label-urgent = 
-label-urgent-font = 1
-label-urgent-padding = 1
-label-urgent-foreground = ${colors.background}
-
-;ws-icon-0 = 1;
-;ws-icon-1 = 2;
-;ws-icon-2 = 3;
-;ws-icon-9 = 10;
-;ws-icon-default = 
 
 [module/power]
 type = custom/text
