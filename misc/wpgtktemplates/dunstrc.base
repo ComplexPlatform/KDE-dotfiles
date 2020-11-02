@@ -3,7 +3,7 @@ title = Dunst
 class = Dunst
 monitor = 0
 follow = mouse
-geometry = "500x6-40+40"
+geometry = "500x6+20+20"
 indicate_hidden = yes
 shrink = yes
 
@@ -17,13 +17,14 @@ frame_width = 6
 frame_color = "{color0}"
 separator_color = "{color8}"
 
-font = iosevka term 14
+font = terminus 15 
 
 line_height = 5
 markup = full
 # format = "<span size='x-large' font_desc='iosevka term 14' weight='bold' # foreground='{color7}'>%s</span>\n%b"
 foreground = "{color7}"
-format = "<b>%s</b>\n%b"
+#format = "<b>%s</b>\n%b"
+format = "%s\n%b"
 alignment = left
 
 idle_threshold = 120
