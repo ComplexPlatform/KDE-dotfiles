@@ -1,5 +1,6 @@
 #!/bin/bash
 
+xrdb -load ~/.cache/wal/colors.Xresources
 # Terminate already running bar instances
 killall -q polybar
 

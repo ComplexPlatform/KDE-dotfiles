@@ -36,7 +36,9 @@ font-0=terminus:size=15:antialias=true;3
 font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;3
 font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;3
 font-3=IPAGothic:style=Regular:size=11:antialias=true;3
+font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;3
 
+;radius = 10
 height = 35
 
 background = ${colors.background}
@@ -44,7 +46,9 @@ offset-y = 15
 
 [bar/i3]
 inherit = bar/base
-width = 40%
+width = 41%
+border-size = 3
+border-color = ${colors.color1}
 
 foreground = ${colors.color1}
 
@@ -58,6 +62,8 @@ enable-ipc = true
 ;width = 28%
 width = 27.7%
 
+border-size = 3
+border-color = ${colors.color2}
 foreground = ${colors.color2}
 ;offset-x = 58.6%
 ;offset-x = 38.6%
@@ -73,6 +79,8 @@ inherit = bar/base
 ;width = 20.5%
 width = 19%
 
+border-size = 3
+border-color = ${colors.color4}
 padding-right = 0
 ;offset-x = 87.6%
 ;offset-x = 1539
@@ -80,7 +88,7 @@ offset-x = 80.1%
 
 ;tray-position = right
 
-modules-left = cpu memory pulseaudio time 
+modules-left = openweathermap cpu memory pulseaudio time 
 
 ;                      _       _           
 ;  _ __ ___   ___   __| |_   _| | ___  ___ 
@@ -88,6 +96,14 @@ modules-left = cpu memory pulseaudio time
 ; | | | | | | (_) | (_| | |_| | |  __/\__ \
 ; |_| |_| |_|\___/ \__,_|\__,_|_|\___||___/
                                          
+[module/openweathermap]
+type = custom/script
+exec = ~/.config/polybar/openweathermap-fullfeatured.sh
+interval = 600
+label-font = 5
+label-foreground = ${colors.background} 
+label-background = ${colors.color4} 
+label-padding = 1
 
 [module/memory]
 type = internal/memory
@@ -96,8 +112,9 @@ format = <label>
 ;label =  %gb_used%/%gb_total%
 label =  %percentage_used%
 label-foreground = ${colors.background} 
+;label-background = ${colors.color4} 
 label-background = ${colors.color4} 
-label-padding = 2
+label-padding = 1
 
 [module/cpu]
 type = internal/cpu
@@ -105,8 +122,9 @@ interval = 1
 format = <label>
 label =  %percentage%
 label-foreground = ${colors.background} 
-label-background = ${colors.color5} 
-label-padding = 2
+;label-background = ${colors.color5} 
+label-background = ${colors.color4} 
+label-padding = 1
 
 [module/xwindow]
 type = internal/xwindow
@@ -140,7 +158,8 @@ content-padding = 2
 type = internal/mpd
 host = 127.0.0.1
 port = 6600
-format-online =  <icon-prev> <toggle> <icon-next>  <label-song><label-time>
+;format-online =  <icon-prev> <toggle> <icon-next>  <label-song><label-time>
+format-online =  <icon-prev> <toggle> <icon-next>  <label-song>
 format-online-padding = 2
 format-online-background = ${colors.color2}
 format-online-foreground = ${colors.background}
@@ -180,16 +199,16 @@ time = "%H:%M"
 date = "%d %b"
 
 label = %date%, %time%
-label-foreground = ${colors.color3}
+label-foreground = ${colors.color4}
 label-background = ${colors.background}
 
 [module/pulseaudio]
 type = internal/pulseaudio
 
-format-volume-padding = 2
-format-volume = <ramp-volume> <label-volume>
-label-volume = %percentage:3:3%%
-format-volume-background = ${colors.color3}
+format-volume-padding = 1
+format-volume = <ramp-volume><label-volume>
+label-volume = %percentage:3:3%
+format-volume-background = ${colors.color4}
 format-volume-foreground = ${colors.background}
 use-ui-max = false
 interval = 5
@@ -199,9 +218,9 @@ ramp-volume-1 = ""
 ramp-volume-2 = ""
 
 
-label-muted = "    "   
+label-muted = " "   
 label-muted-background = ${colors.background}
-label-muted-foreground = ${colors.color3}
+label-muted-foreground = ${colors.color4}
 label-muted-padding = 2
 
 ;Spotify modules
