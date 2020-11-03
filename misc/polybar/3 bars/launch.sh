@@ -1,6 +1,6 @@
 #!/bin/bash
 
-xrdb -load ~/.cache/wal/colors.Xresources
+xrdb -load ~/.cache/wal/colors.Xresources &
 # Terminate already running bar instances
 killall -q polybar
 
@@ -8,9 +8,9 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # polybar -rq dummy & 
+polybar -rq i3 &
 polybar -rq music &
 polybar -rq tray &
-polybar -rq i3 &
 
 
 echo "Polybar launched..."
