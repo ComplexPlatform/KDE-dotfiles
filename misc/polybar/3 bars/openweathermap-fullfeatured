@@ -52,8 +52,8 @@ get_duration() {
 
 }
 
-KEY="8e9c7bf2f4be950b9fab5a1f5904ec12"
-CITY="1730517"
+KEY=""
+CITY=""
 UNITS="metric"
 SYMBOL=""
 
