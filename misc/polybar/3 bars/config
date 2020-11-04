@@ -98,7 +98,7 @@ modules-left = openweathermap cpu memory pulseaudio time
                                          
 [module/openweathermap]
 type = custom/script
-exec = ~/.config/polybar/openweathermap-fullfeatured.sh
+exec = ~/.config/polybar/openweathermap-fullfeatured
 interval = 600
 label-font = 5
 label-foreground = ${colors.background} 
