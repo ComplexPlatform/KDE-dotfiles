@@ -28,11 +28,18 @@ call plug#begin('~/.vim/plugged')
 Plug 'preservim/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'fehawen/cs.vim'
+Plug 'itchyny/lightline.vim'
 
 call plug#end()
 
 colorscheme cs
-set laststatus=2 
+set laststatus=2
+set noshowmode
+
+" lightline config
+let g:lightline = {
+      \ 'colorscheme': '16color',
+      \ }
 
 " NERDTRee
 map <C-n> :NERDTreeToggle<CR>
@@ -49,8 +56,8 @@ set ruler
 " Turn on syntax highlighting.
 syntax on
 
-" Turn off modelines
-set modelines=0
+" Turn on modelines
+set modelines=1
 
 " Uncomment below to set the max textwidth. Use a value corresponding to the width of your screen.
 " set textwidth=80
