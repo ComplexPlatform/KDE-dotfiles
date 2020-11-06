@@ -202,8 +202,27 @@ To change the titlebar size:
 
 </details>
 
+## :ice_cream: Optional Stuff
+
+<details open>
+<summary><strong>dunst</strong></summary>
+  
+You can use [`dunst`](https://github.com/dunst-project/dunst) instead by renaming KDE's notification service so it gets ignored.
+
+```bash
+# Make sure dunst is installed beforehand
+cd /usr/share/dbus-1/services
+sudo mv org.kde.plasma.Notifications.service org.kde.plasma.Notifications.service-disabled
+```
+Log out and log back in again to see the changes.
+
+</details>
+
 ## :sparkling_heart: Credits
 
-- [owl4ce](https://github.com/owl4ce/)
-- [elenapan](https://github.com/elenapan/)
 - [addy-dclxvi](https://github.com/addy-dclxvi/)
+- [deviantfero](https://github.com/deviantfero/)
+- [elenapan](https://github.com/elenapan/)
+- [fehawen](https://github.com/fehawen/)
+- [ngynLk](https://github.com/ngynLk/)
+- [owl4ce](https://github.com/owl4ce/)

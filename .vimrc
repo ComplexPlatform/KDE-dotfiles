@@ -15,12 +15,11 @@
 " Set compatibility to Vim only.
 set nocompatible
 
-" Automatic vim-plug installation
-if empty(glob('~/.vim/autoload/plug.vim'))
-    silent !curl -fLo ~/.vim/autoload/plug.vim --create-dirs
-    \ https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
-    autocmd VimEnter * PlugInstall --sync | source ~/.vimrc
-endif
+" Auto-install missing plugins on startup
+autocmd VimEnter *
+  \  if len(filter(values(g:plugs), '!isdirectory(v:val.dir)'))
+  \|   PlugInstall --sync | q
+  \| endif
 
 " Plug
 call plug#begin('~/.vim/plugged')
@@ -29,6 +28,7 @@ Plug 'preservim/nerdtree'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'fehawen/cs.vim'
 Plug 'itchyny/lightline.vim'
+Plug 'jeffkreeftmeijer/vim-dim'
 
 call plug#end()
 
@@ -46,6 +46,9 @@ map <C-n> :NERDTreeToggle<CR>
 let NERDTreeShowHidden=1
 
 " Mappings
+noremap <Leader>y "+y
+noremap <Leader>p "+p
+
 " Shortcut for editing gtk.css
 " removes separators, backdrop color and imports custom.css
 map <leader>g Go@import url('custom.css');<ESC>gg/separator<CR>12n3jf(vi(y:%s/<C-r>"/0,0,0,0<CR>gg/backdrop<CR>3nV2jddd
