@@ -220,6 +220,9 @@ Log out and log back in again to see the changes.
 
 ## :sparkling_heart: Credits
 
+- [6gk](https://github.com/6gk/)
+- [JavaCafe01](https://github.com/JavaCafe01/)
+- [KevinNThomas](https://gitlab.com/KevinNThomas)
 - [addy-dclxvi](https://github.com/addy-dclxvi/)
 - [deviantfero](https://github.com/deviantfero/)
 - [elenapan](https://github.com/elenapan/)
