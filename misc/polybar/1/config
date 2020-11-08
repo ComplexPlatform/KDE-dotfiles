@@ -34,19 +34,20 @@ color5 = ${xrdb:color5}
 ; |_.__/ \__,_|_|  |___/
 
 [bar/base]
-;font-0=sfmono powerline:size=11:antialias=true;3
-font-0=terminus:size=15:antialias=true;3
-font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;3
-font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;3
+;font-0=cozette:size=10:antialias=true;3
+;font-0=terminus:size=12:antialias=true;3
+font-0=jetbrains mono:size=11:antialias=true;3
+font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;2
+font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;2
 font-3=IPAGothic:style=Regular:size=11:antialias=true;3
-font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;3
+font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;2
 enable-ipc = true
 
 border-size = 7
 border-color = ${colors.background}
 
 ;radius = 10
-height = 35
+height = 35 
 
 modules-left = kde-virtual-desktops
 modules-center = mpd
@@ -62,7 +63,7 @@ foreground = ${colors.foreground}
                                          
 [module/openweathermap]
 type = custom/script
-exec = ~/.config/polybar/openweathermap-fullfeatured.sh
+exec = ~/.config/polybar/openweathermap-fullfeatured
 interval = 600
 label-font = 5
 label-background = ${colors.backgroundd} 
@@ -136,7 +137,7 @@ icon-play = 
 icon-pause = 
 icon-next = 
 
-label-song-maxlen = 38
+label-song-maxlen = 100
 label-song-ellipsis = true
 
 [module/time]
@@ -225,5 +226,3 @@ margin-top = 0
 margin-bottom = 0
 
 ; vim:ft=dosini
-                      
-

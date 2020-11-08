@@ -33,11 +33,11 @@ color5 = ${xrdb:color5}
 ; |_.__/ \__,_|_|  |___/
 
 [bar/base]
-font-0=sfmono powerline:size=11:antialias=true;3
-font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;3
-font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;3
+font-0=jetbrains mono:size=11:antialias=true;3
+font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;2
+font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;2
 font-3=IPAGothic:style=Regular:size=11:antialias=true;3
-font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;3
+font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;2
 
 radius = 15
 height = 35
