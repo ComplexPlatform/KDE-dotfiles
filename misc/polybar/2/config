@@ -19,6 +19,7 @@
 [colors]
 
 background = ${xrdb:color0:#222}
+foreground = ${xrdb:color7}
 color1 = ${xrdb:color1}
 color2 = ${xrdb:color2}
 color3 = ${xrdb:color3}
@@ -32,63 +33,63 @@ color5 = ${xrdb:color5}
 ; |_.__/ \__,_|_|  |___/
 
 [bar/base]
-font-0=terminus:size=15:antialias=true;3
+font-0=sfmono powerline:size=11:antialias=true;3
 font-1=FontAwesome5Free:style=Regular:size=9:antialias=true;3
 font-2=FontAwesome5Free:style=Solid:size=9:antialias=true;3
 font-3=IPAGothic:style=Regular:size=11:antialias=true;3
 font-4=FontAwesome5Pro:style=Solid:size=9:antialias=true;3
 
-;radius = 10
+radius = 15
 height = 35
 
 background = ${colors.background}
 offset-y = 15
 
-[bar/i3]
+[bar/kde]
 inherit = bar/base
-width = 41%
-border-size = 3
-border-color = ${colors.color1}
+width = 16.4%
+;foreground = ${colors.foreground}
+offset-x = 15
+modules-left = kde-virtual-desktops 
+
+;invert
+;foreground = ${colors.background}
+;background = ${colors.color1}
 
 foreground = ${colors.color1}
+background = ${colors.background}
 
-offset-x = 15
-
-modules-left = kde-virtual-desktops xwindow
-
-[bar/music]
+[bar/mpd]
 inherit = bar/base
-enable-ipc = true
-;width = 28%
-width = 27.7%
-
-border-size = 3
-border-color = ${colors.color2}
-foreground = ${colors.color2}
-;offset-x = 58.6%
-;offset-x = 38.6%
-offset-x = 51.6%
-
-; Spotify (script at github.com/dietervanhoof/polybar-spotify-controls)
-;modules-left = previous playpause next spotify
-; Mpd
+width = 50%
+offset-x = 17.7% 
 modules-left = mpd
+foreground = ${colors.foreground}
+background = #00000000
 
-[bar/tray]
+[bar/stats]
 inherit = bar/base
-;width = 20.5%
-width = 19%
+width = 21%
+;padding-right = 0
+offset-x = 72.6%
+foreground = ${colors.foreground}
+modules-right = openweathermap cpu memory pulseaudio-control 
+background = #00000000
 
-border-size = 3
-border-color = ${colors.color4}
+[bar/time]
+inherit = bar/base
+width = 5.3%
 padding-right = 0
-;offset-x = 87.6%
-;offset-x = 1539
-offset-x = 80.1%
+offset-x = 93.8%
 
-;tray-position = right
+;invert
+;foreground = ${colors.background}
+;background = ${colors.color1}
 
-modules-left = openweathermap cpu memory pulseaudio time 
+foreground = ${colors.color1}
+background = ${colors.background}
+
+modules-left = time 
 
 ;                      _       _           
 ;  _ __ ___   ___   __| |_   _| | ___  ___ 
@@ -96,13 +97,21 @@ modules-left = openweathermap cpu memory pulseaudio time
 ; | | | | | | (_) | (_| | |_| | |  __/\__ \
 ; |_| |_| |_|\___/ \__,_|\__,_|_|\___||___/
                                          
+[module/pulseaudio-control]
+type = custom/script
+exec = pulseaudio-control --icons-volume " , " --icon-muted " " --sink-nicknames-from "device.description" --sink-nickname "alsa_output.pci-0000_01_00.1.hdmi-stereo-extra2:%{T5}%{T-} Speakers" --sink-nickname "alsa_output.pci-0000_00_14.2.analog-stereo:%{T5}%{T-} Headphones" listen
+tail = true
+label-padding = 1
+label-foreground = ${colors.foreground} 
+click-right = pulseaudio-control --sink-blacklist "PulseEffects_apps,PulseEffects_mic" next-sink
+click-left = pulseaudio-control togmute
+
 [module/openweathermap]
 type = custom/script
 exec = ~/.config/polybar/openweathermap-fullfeatured
 interval = 600
 label-font = 5
-label-foreground = ${colors.background} 
-label-background = ${colors.color4} 
+label-foreground = ${colors.foreground} 
 label-padding = 1
 
 [module/memory]
@@ -111,9 +120,7 @@ interval = 1
 format = <label>
 ;label =  %gb_used%/%gb_total%
 label =  %percentage_used%
-label-foreground = ${colors.background} 
-;label-background = ${colors.color4} 
-label-background = ${colors.color4} 
+label-foreground = ${colors.foreground} 
 label-padding = 1
 
 [module/cpu]
@@ -121,38 +128,27 @@ type = internal/cpu
 interval = 1
 format = <label>
 label =  %percentage%
-label-foreground = ${colors.background} 
-;label-background = ${colors.color5} 
-label-background = ${colors.color4} 
+label-foreground = ${colors.foreground} 
 label-padding = 1
-
-[module/xwindow]
-type = internal/xwindow
-label = %title:0:50:...%
-label-foreground = ${colors.color1} 
-label-background = ${colors.background} 
-label-padding = 2
 
 [module/kde-virtual-desktops]
 type = custom/script
 exec = ~/.config/polybar/kde-virtual-desktops
 scroll-up = ~/.config/polybar/kde-previous-desktop
 scroll-down = ~/.config/polybar/kde-next-desktop
-format-padding = 2
-format-background = ${colors.color1}
-format-foreground = ${colors.background}
+;format-padding = 2
 tail = true
 label = %output%
+format-offset = 15%
+
+;[module/kde-virtual-desktops-number]
+;type = custom/script
+;exec = ~/.config/polybar/kde-virtual-desktops-number
+;tail = true
+;label = %output%
 
 enable-click = true
 reverse-scroll = false
-
-[module/power]
-type = custom/text
-content = 
-content-foreground = ${colors.color3}
-click-left = powermenu
-content-padding = 2
 
 [module/mpd]
 type = internal/mpd
@@ -160,21 +156,14 @@ host = 127.0.0.1
 port = 6600
 ;format-online =  <icon-prev> <toggle> <icon-next>  <label-song><label-time>
 format-online =  <icon-prev> <toggle> <icon-next>  <label-song>
-format-online-padding = 2
-format-online-background = ${colors.color2}
-format-online-foreground = ${colors.background}
-label-song-foreground = ${colors.color2}
-label-song-background = ${colors.background}
-label-song-padding = 2
-label-time-foreground = ${colors.color2}
-label-time-background = ${colors.background}
-label-time-padding = 1
+;format-online =  <label-song>
+;format-online-padding = 2
+;label-song-padding = 2
+;label-time-padding = 1
 
 format-offline = <label-offline>
 label-offline =  offline
-format-offline-padding = 2
-format-offline-foreground = ${colors.color2}
-format-offline-background = ${colors.background}
+;format-offline-padding = 2
 
 bar-progress-width = 35
 bar-progress-indicator = |
@@ -187,20 +176,17 @@ icon-play = 
 icon-pause = 
 icon-next = 
 
-label-song-maxlen = 38
+label-song-maxlen = 100
 label-song-ellipsis = true
 
 [module/time]
 type = internal/date
 interval = 10
 format-margin = 2
-
 time = "%H:%M"
-date = "%d %b"
-
-label = %date%, %time%
-label-foreground = ${colors.color4}
-label-background = ${colors.background}
+time-alt = "%m/%d"
+label = %{T3}%{T-} %time% 
+;date = "%d %b"
 
 [module/pulseaudio]
 type = internal/pulseaudio
@@ -208,8 +194,7 @@ type = internal/pulseaudio
 format-volume-padding = 1
 format-volume = <ramp-volume><label-volume>
 label-volume = %percentage:3:3%
-format-volume-background = ${colors.color4}
-format-volume-foreground = ${colors.background}
+format-volume-foreground = ${colors.foreground}
 use-ui-max = false
 interval = 5
 
@@ -219,53 +204,9 @@ ramp-volume-2 = ""
 
 
 label-muted = " "   
-label-muted-background = ${colors.background}
-label-muted-foreground = ${colors.color4}
-label-muted-padding = 2
+label-muted-foreground = ${colors.foreground}
+label-muted-padding = 1
 
-;Spotify modules
-
-[module/previous]
-type = custom/script
-format-font = 3
-format-padding = 2
-format-background = ${colors.color2}
-format-foreground = ${colors.background}
-exec = echo "  "
-exec-if = "pgrep spotify"
-click-left = "playerctl previous"
-
-
-[module/next]
-type = custom/script
-format-font = 3
-format-padding = 2
-format-background = ${colors.color2}
-format-foreground = ${colors.background}
-exec = echo "  "
-exec-if = "pgrep spotify"
-click-left = "playerctl next"
-
-[module/playpause]
-type = custom/script
-exec = spotifystatus
-exec-if = "pgrep spotify"
-format-font = 3
-format-background = ${colors.color2}
-format-foreground = ${colors.background}
-format-padding = 1
-tail = true
-interval = 0
-click-left = "playerctl -p spotify play-pause"
-
-
-[module/spotify]
-type = custom/script
-exec = playerctl -p spotify metadata --format '{{artist}}: {{title}}'
-exec-if = "pgrep spotify"
-format-padding = 2
-tail = true
-interval = 1
 
 [settings]
 screenchange-reload = true
@@ -280,5 +221,3 @@ margin-top = 0
 margin-bottom = 0
 
 ; vim:ft=dosini
-                      
-

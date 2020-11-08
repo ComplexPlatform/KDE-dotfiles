@@ -8,9 +8,10 @@ killall -q polybar
 while pgrep -u $UID -x polybar >/dev/null; do sleep 1; done
 
 # polybar -rq dummy & 
-polybar -rq i3 &
-polybar -rq music &
-polybar -rq tray &
+polybar -rq kde &
+polybar -rq mpd &
+polybar -rq stats &
+polybar -rq time &
 
 
 echo "Polybar launched..."
