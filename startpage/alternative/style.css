@@ -1,0 +1,52 @@
+@import url('/home/marc/.cache/wal/colors.css');
+html {
+    align-items: center;
+    background-color: var(--color0);
+    color: var(--color7);
+    display: flex;
+    font: 15pt "jetbrains mono";
+    height: 100%;
+    justify-content: center;
+}
+
+body {
+    background-color: var(--color8);
+    box-shadow: 9px 9px 4px #1d1f2187;
+    color: var(--color7);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 15ch;
+    min-width: 30px;
+    padding: 4em;
+}
+
+a {
+    line-height: 2;
+}
+
+ul {
+    columns: 2;
+    column-gap: 3em;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    margin: 0;
+}
+
+p span {
+    color: var(--color0);
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    font-weight: bold;
+}
