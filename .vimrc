@@ -29,8 +29,13 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'fehawen/cs.vim'
 Plug 'itchyny/lightline.vim'
 Plug 'jeffkreeftmeijer/vim-dim'
+Plug 'dense-analysis/ale'
+Plug 'triglav/vim-visual-increment'
 
 call plug#end()
+
+" vim-visual-increment
+set nrformats=alpha
 
 " coc
 inoremap <silent><expr> <TAB>
