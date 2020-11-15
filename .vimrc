@@ -31,23 +31,41 @@ Plug 'itchyny/lightline.vim'
 Plug 'jeffkreeftmeijer/vim-dim'
 Plug 'dense-analysis/ale'
 Plug 'triglav/vim-visual-increment'
+Plug 'lervag/vimtex'
+Plug 'sirver/ultisnips'
+Plug 'KeitaNakamura/tex-conceal.vim'
 
 call plug#end()
+
+" tex-conceal
+set conceallevel=1
+let g:tex_conceal='abdmg'
+hi Conceal ctermbg=none
+
+" ultisnips
+let g:UltiSnipsExpandTrigger = '<TAB>'
+let g:UltiSnipsJumpForwardTrigger = '<TAB>'
+let g:UltiSnipsJumpBackwardTrigger = '<S-TAB>'
+
+" vimtex
+let g:tex_flavor='latex'
+let g:vimtex_view_method='zathura'
+let g:vimtex_quickfix_mode=0
 
 " vim-visual-increment
 set nrformats=alpha
 
 " coc
-inoremap <silent><expr> <TAB>
-      \ pumvisible() ? "\<C-n>" :
-      \ <SID>check_back_space() ? "\<TAB>" :
-      \ coc#refresh()
-inoremap <expr><S-TAB> pumvisible() ? "\<C-p>" : "\<C-h>"
-
 function! s:check_back_space() abort
-  let col = col('.') - 1
-  return !col || getline('.')[col - 1]  =~# '\s'
+let col = col('.') - 1
+return !col || getline('.')[col - 1]  =~ '\s'
 endfunction
+
+inoremap <silent><expr> <C-q>
+      \ pumvisible() ? "\<C-n>" :
+      \ <SID>check_back_space() ? "\<Tab>" :
+      \ coc#refresh()
+inoremap <expr> <C-s> pumvisible() ? "\<C-p>" : "\<S-Tab>"
 
 colorscheme cs
 set laststatus=2

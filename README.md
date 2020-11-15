@@ -227,5 +227,6 @@ Log out and log back in again to see the changes.
 - [deviantfero](https://github.com/deviantfero/)
 - [elenapan](https://github.com/elenapan/)
 - [fehawen](https://github.com/fehawen/)
+- [gillescastel](https://github.com/gillescastel)
 - [ngynLk](https://github.com/ngynLk/)
 - [owl4ce](https://github.com/owl4ce/)
