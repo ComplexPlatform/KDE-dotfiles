@@ -108,16 +108,13 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
 <details open>
   <summary><strong>Extract Icons</strong></summary>
   
-   - ```bash
-     cd ~/.local/share/icons/
-     ```
-   - ```bash
-     tar -Jxvf Foggy-Mountain.tar.xz && tar -Jxvf Coffee.tar.xz && tar -Jxvf Flowers.tar.xz && tar -Jxvf Urban.tar.xz && tar -Jxvf CherryBlossom.tar.xz && tar -Jxvf neutral.tar.xz
-     ```
-   - ```bash
-   	 # Delete leftover archives
-     rm -r ~/.local/share/icons/{Foggy-Mountain.tar.xz,Coffee.tar.xz,Flowers.tar.xz,Urban.tar.xz,CherryBlossom.tar.xz,neutral.tar.xz}
-     ```
+- ```bash
+  cd ~/.local/share/icons/
+  ls *.xz |xargs -n1 tar -xf
+
+	 # Delete leftover archives
+  rm *.tar.xz
+  ```
      
 </details>
 
