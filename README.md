@@ -112,7 +112,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   cd ~/.local/share/icons/
   ls *.xz |xargs -n1 tar -xf
 
-	 # Delete leftover archives
+  # Delete leftover archives
   rm *.tar.xz
   ```
      
