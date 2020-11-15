@@ -1,0 +1,45 @@
+/* Custom Settings */
+
+.titlebar {
+  min-height: 48px;
+  box-shadow: none;
+}
+
+.termite {
+padding: 20px;
+}
+
+.text-button:hover {
+  color: #93756C;
+  transition: 0.3s;
+}
+
+.image-button {
+  color: #93756C;
+  margin-left: 4px;
+  margin-right: 4px;
+  padding-left: 1px;
+  padding-right: 1px;
+  transition: 0.3s;
+  border-radius: 99px;
+}
+/**********
+ * Thunar *
+ **********/
+.thunar #location-toolbar {
+  border-bottom: 1px solid rgba(0,0,0,0);
+}
+
+.thunar .standard-view.frame {
+  border-style: none;
+}
+
+.thunar .sidebar .view:not(:selected) {
+  background-color: transparent;
+}
+
+.thunar statusbar {
+  margin: 0 -10px;
+  padding: 0 4px;
+  border-top: 1px solid rgba(0,0,0,0);
+}

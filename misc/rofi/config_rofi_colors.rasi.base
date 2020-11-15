@@ -1,0 +1,20 @@
+* {
+    xbg:    {color0};
+    xfg:    {color7};
+    x0:     {color0};     
+    x1:     {color1};     
+    x2:     {color2};     
+    x3:     {color3};     
+    x4:     {color4};     
+    x5:     {color5};     
+    x6:     {color6};     
+    x7:     {color7};     
+    x8:     {color8};     
+    x9:     {color9};     
+    x10:     {color10};     
+    x11:     {color11};     
+    x12:     {color12};     
+    x13:     {color13};     
+    x14:     {color14};     
+    x15:     {color15};     
+}

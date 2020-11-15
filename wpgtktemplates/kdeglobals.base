@@ -1,0 +1,166 @@
+[$Version]
+update_info=filepicker.upd:filepicker-remove-old-previews-entry,fonts_global.upd:Fonts_Global,fonts_global_toolbar.upd:Fonts_Global_Toolbar,icons_remove_effects.upd:IconsRemoveEffects,kwin.upd:animation-speed,style_widgetstyle_default_breeze.upd:StyleWidgetStyleDefaultBreeze
+
+[ColorEffects:Disabled]
+ChangeSelectionColor=
+Color=56,56,56
+ColorAmount=0
+ColorEffect=0
+ContrastAmount=0.65
+ContrastEffect=1
+Enable=
+IntensityAmount=0.1
+IntensityEffect=2
+
+[ColorEffects:Inactive]
+ChangeSelectionColor=true
+Color=112,111,110
+ColorAmount=0.025
+ColorEffect=2
+ContrastAmount=0.1
+ContrastEffect=2
+Enable=false
+IntensityAmount=0
+IntensityEffect=0
+
+[Colors:Button]
+BackgroundAlternate=77,77,77
+BackgroundNormal={color0.rgb}
+DecorationFocus={active.rgb}
+DecorationHover={active.rgb}
+ForegroundActive={active.rgb}
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal={color7.rgb}
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Complementary]
+BackgroundAlternate=59,64,69
+BackgroundNormal={color0.rgb}
+DecorationFocus=30,146,255
+DecorationHover=61,174,230
+ForegroundActive=246,116,0
+ForegroundInactive=175,176,179
+ForegroundLink=61,174,230
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal={color7.rgb}
+ForegroundPositive=17,209,22
+ForegroundVisited=61,174,230
+
+[Colors:Selection]
+BackgroundAlternate=29,153,243
+BackgroundNormal={active.rgb}
+DecorationFocus={active.rgb}
+DecorationHover={active.rgb}
+ForegroundActive=252,252,252
+ForegroundInactive=
+ForegroundLink=253,188,75
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal={color7.rgb}
+ForegroundPositive=39,174,96
+ForegroundVisited=189,195,199
+
+[Colors:Tooltip]
+BackgroundAlternate=77,77,77
+BackgroundNormal={color0.rgb}
+DecorationFocus={active.rgb}
+DecorationHover={active.rgb}
+ForegroundActive={active.rgb}
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal={color7.rgb}
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:View]
+BackgroundAlternate={color0.rgb}
+BackgroundNormal={color0.rgb}
+DecorationFocus={active.rgb}
+DecorationHover={active.rgb}
+ForegroundActive={active.rgb}
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal={color7.rgb}
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[Colors:Window]
+BackgroundAlternate=77,77,77
+BackgroundNormal={color0.rgb}
+DecorationFocus={active.rgb}
+DecorationHover={active.rgb}
+ForegroundActive={active.rgb}
+ForegroundInactive=189,195,199
+ForegroundLink=41,128,185
+ForegroundNegative=218,68,83
+ForegroundNeutral=246,116,0
+ForegroundNormal={color7.rgb}
+ForegroundPositive=39,174,96
+ForegroundVisited=127,140,141
+
+[DirSelect Dialog]
+DirSelectDialog Size=846,590
+History Items[$e]=file:$HOME/Downloads/_Themes/Dracula/Kvantum/Dracula-Solid,file:$HOME/Downloads/_Themes/Dracula/Kvantum,file:///mnt/HDD/Videos/Anime,file:$HOME/Downloads/_Themes/Nordic/Nordic-Darker-Solid,file:$HOME/Downloads/_Themes/Moe/MoeDark,file:///mnt/HDD/Downloads/Music,file:$HOME/.themes/Inverse-dark/,file:$HOME/.themes/,file:///run/media/marc/HDD/Videos/Anime
+
+[General]
+BrowserApplication=firefox.desktop
+ColorScheme=BreezeDark
+Name=Breeze Dark
+XftHintStyle=hintslight
+XftSubPixel=rgb
+font=SF Pro Text,10,-1,5,50,0,0,0,0,0
+menuFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+shadeSortColumn=true
+smallestReadableFont=SF Pro Text,8,-1,5,50,0,0,0,0,0
+toolBarFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+
+[Icons]
+Theme=Neutral
+
+[KDE]
+AnimationDurationFactor=0
+LookAndFeelPackage=org.kde.breezedark.desktop
+contrast=4
+widgetStyle=gtk2
+
+[KFileDialog Settings]
+Allow Expansion=false
+Automatically select filename extension=true
+Breadcrumb Navigation=false
+Decoration position=2
+LocationCombo Completionmode=5
+PathCombo Completionmode=5
+Show Bookmarks=false
+Show Full Path=false
+Show Inline Previews=true
+Show Preview=false
+Show Speedbar=true
+Show hidden files=true
+Sort by=Name
+Sort directories first=true
+Sort reversed=false
+Speedbar Width=138
+View Style=Simple
+
+[KShortcutsDialog Settings]
+Dialog Size=600,480
+
+[WM]
+activeBackground={color8.rgb}
+activeBlend={color8.rgb}
+activeFont=SF Pro Text,10,-1,5,50,0,0,0,0,0
+activeForeground={color8.rgb}
+frame={active.rgb}
+inactiveBackground={color0.rgb}
+inactiveBlend={color0.rgb}
+inactiveForeground={color0.rgb}
+inactiveFrame={color0.rgb}

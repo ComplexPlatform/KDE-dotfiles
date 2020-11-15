@@ -13,8 +13,6 @@ DEFAULT_SESSION=startkde
 
 # merge in defaults and keymaps
 
-[ -f ~/.xprofile ] && . ~/.xprofile
-
 if [ -f $sysresources ]; then
     xrdb -merge $sysresources
 fi

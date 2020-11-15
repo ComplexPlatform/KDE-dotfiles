@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/marc/.config/wpg/wallpapers/neutral1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#ececea",
+        "foreground": "#4e4b42",
+        "cursor": "#4e4b42"
+    },
+    "colors": {
+        "color0": "#ececea",
+        "color1": "#d3948a",
+        "color2": "#798458",
+        "color3": "#c6825d",
+        "color4": "#708088",
+        "color5": "#7e6067",
+        "color6": "#747a6c",
+        "color7": "#4e4b42",
+        "color8": "#e6d4d0",
+        "color9": "#d3948a",
+        "color10": "#798458",
+        "color11": "#c6825d",
+        "color12": "#708088",
+        "color13": "#7e6067",
+        "color14": "#747a6c",
+        "color15": "#4e4b42"
+    }
+}

@@ -2,6 +2,10 @@
 
 <h2 align="center"> Preview </h2>
 
+<h3 align="center"> Neutral </h3>
+
+![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/neutral.png)
+
 <h3 align="center"> Cherry Blossom </h3>
 
 ![](https://raw.githubusercontent.com/ComplexPlatform/KDE-dotfiles/master/previews/cherryblossom.png)
@@ -31,23 +35,21 @@ To give you an idea on how this works, I use `wpgtk` with templates to make sett
 -  **WM:** KWin
 -  **Terminal:** Konsole
 -  **Shell:** zsh + Oh My Zsh + Powerlevel10k
--  **Terminal Font:** SF Mono Powerline
+-  **Terminal Font:** SFMono Nerd Font, JetBrainsMono NF, Iosevka
 -  **System Font:** SF Pro Text
--  **Bar/Panel:** Latte-Dock
+-  **Bar/Panel:** ~~Latte-Dock~~ Polybar
 -  **File Manager:** ~~Dolphin~~ Thunar
 -  **Editor:** VS Code, Vim
 -  **Browser:** Firefox
 -  **Music Player:** Spotify & ncmpcpp
 
-The fetch shown in the preview above is [fet.sh](https://github.com/6gk/fet.sh)
+Firefox CSS sources: [minimal-functional-fox (old)](https://github.com/mut-ex/minimal-functional-fox) & [not-firefox-review](https://github.com/JavaCafe01/not-firefox-review)
 
-Firefox CSS is based on [minimal-functional-fox](https://github.com/mut-ex/minimal-functional-fox)
-
-Startpage source: https://notabug.org/nytly/home
+Startpage sources: https://notabug.org/nytly/home (old) & https://github.com/JavaCafe01/startpage
 
 Latte layout is based on [Moe Layout](https://store.kde.org/p/1373008/).
 
-ncmpcpp config is from [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
+ncmpcpp config source: [elenapan](https://github.com/elenapan/dotfiles/blob/master/config/ncmpcpp/config) and [owl4ce](https://github.com/owl4ce/dotfiles/blob/master/.ncmpcpp/config)
 
 Materia GTK themes and Papirus icons are made using [oomox](https://github.com/themix-project/oomox)
 
@@ -68,6 +70,9 @@ Materia GTK themes and Papirus icons are made using [oomox](https://github.com/t
 -  [betterdiscordctl](https://github.com/bb010g/betterdiscordctl) & [pywal-discord](https://github.com/FilipLitwora/pywal-discord)
 - [Tabliss](https://tabliss.io/)
 - [Animated Image Wallpaper](https://store.kde.org/p/1339104/)
+- [polybar](https://github.com/polybar/polybar) - replacement for latte-dock
+- [rofi](https://github.com/davatorium/rofi) - replacement for krunner
+- [dunst](https://github.com/dunst-project/dunst) - replacement for KDE's notification daemon
 
 ## :hammer_and_wrench: Setup
 
@@ -107,11 +112,11 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
      cd ~/.local/share/icons/
      ```
    - ```bash
-     tar -Jxvf Foggy-Mountain.tar.xz && tar -Jxvf Coffee.tar.xz && tar -Jxvf Flowers.tar.xz && tar -Jxvf Urban.tar.xz && tar -Jxvf CherryBlossom.tar.xz
+     tar -Jxvf Foggy-Mountain.tar.xz && tar -Jxvf Coffee.tar.xz && tar -Jxvf Flowers.tar.xz && tar -Jxvf Urban.tar.xz && tar -Jxvf CherryBlossom.tar.xz && tar -Jxvf neutral.tar.xz
      ```
    - ```bash
    	 # Delete leftover archives
-     rm -r ~/.local/share/icons/{Foggy-Mountain.tar.xz,Coffee.tar.xz,Flowers.tar.xz,Urban.tar.xz,CherryBlossom.tar.xz}
+     rm -r ~/.local/share/icons/{Foggy-Mountain.tar.xz,Coffee.tar.xz,Flowers.tar.xz,Urban.tar.xz,CherryBlossom.tar.xz,neutral.tar.xz}
      ```
      
 </details>
@@ -129,6 +134,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   wpg -a walls/flowers.jpg
   wpg -a walls/urban.jpg
   wpg -a walls/cherryblossom.jpg
+  wpg -a walls/neutral.jpg
   ```
 - ```bash
   # Assuming you're in KDE-Dotfiles directory
@@ -138,6 +144,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   wpg -i flowers.jpg colorschemes/flowers.json
   wpg -i urban.jpg colorschemes/urban.json
   wpg -i cherryblossom.jpg colorschemes/cherryblossom.json
+  wpg -i neutral.jpg colorschemes/neutral.json
   ```
 
 2. Add templates:
@@ -156,13 +163,7 @@ To change your Latte layout, right click on your dock/panel > Layouts > pick you
   # Replace <filename>.base with yours
   # Assuming you're in KDE-dotfiles directory
   cd wpgtktemplates
-
-  # For dark color schemes:
-  cat kdeglobals-dark.base > ~/.config/wpg/templates/<your_kdeglobals>.base
-
-  # For light color schemes:
-  cat kdeglobals-light.base > ~/.config/wpg/templates/<your_kdeglobals>.base
-  
+  cat kdeglobals.base > ~/.config/wpg/templates/<your_kdeglobals>.base
   cat colors.base > ~/.config/wpg/templates/<your_cullax_colors>.base
   cat konsole.base > ~/.config/wpg/templates/<your_konsole>.base
   ```
@@ -224,6 +225,7 @@ Log out and log back in again to see the changes.
 - [JavaCafe01](https://github.com/JavaCafe01/)
 - [KevinNThomas](https://gitlab.com/KevinNThomas)
 - [addy-dclxvi](https://github.com/addy-dclxvi/)
+- [adi1090x](https://github.com/adi1090x)
 - [deviantfero](https://github.com/deviantfero/)
 - [elenapan](https://github.com/elenapan/)
 - [fehawen](https://github.com/fehawen/)

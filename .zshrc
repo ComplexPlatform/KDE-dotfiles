@@ -76,7 +76,10 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git)
+plugins=(
+    git
+    vi-mode
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -107,19 +110,22 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 alias fet.sh="clear && fet.sh"
-alias cdboxdl="cd ~/Documents/home/box.com-downloader/"
 alias pymain="python main.py"
-alias ncmpcpps="ncmpcpp -c ~/.ncmpcpp/config-with-status"
 alias catfetch="clear && neofetch --ascii /home/marc/.config/neofetch/cat"
 alias picomconf="picom --config ~/.config/picom/picom.conf"
-alias fehbg="feh --bg-fill"
 alias restartplasma="kquitapp5 plasmashell && kstart5 plasmashell"
 alias restartdunst="killall dunst;notify-send 'Header' 'The quick brown fox jumps over the lazy dog.'"
 alias fres="fc-cache -rv"
 alias lightcordwal="cp ~/.config/BetterDiscord/themes/pywal-discord-default.theme.css ~/.config/Lightcord_BD/themes/pywal-discord-default.theme.css"
+alias v="vim"
+alias vpolybar="vim ~/.config/polybar/config"
+alias lpolybar="~/.config/polybar/launch.sh"
+alias twitch=". ~/.scripts/twitch.sh"
+alias vrc="vim ~/.vimrc"
 
 # Color toys aliases
 alias bloks="~/.color-toys/bloks1"
+alias blocks="~/.color-toys/blocks"
 alias colortest="~/.color-toys/colortest"
 alias colortest-slim="~/.color-toys/colortest-slim"
 alias colorview="~/.color-toys/colorview"
@@ -128,11 +134,6 @@ alias panes="~/.color-toys/colorpanes"
 alias pipes1="~/.color-toys/pipes1"
 alias pipes2="~/.color-toys/pipes2"
 alias pipes2-slim="~/.color-toys/pipes2-slim"
-
-# Git aliases
-alias gadd="git add -A"
-alias gcommit="git commit -a -m"
-alias gpush="git push"
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
