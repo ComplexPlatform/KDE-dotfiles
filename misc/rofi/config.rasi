@@ -1,12 +1,10 @@
 configuration {
     modi: "combi,windowcd,run,emoji";
-    lines: 10;
-    columns: 2;
-    font: "sans 13";
+    columns: 1;
+    font: "jetbrains mono nerd font 14";
     bw: 0;
     location: 0;
     padding: 0;
-    fixed-num-lines: true;
     show-icons: false;
     sidebar-mode: true;
     combi-modi: "window,run";
@@ -29,6 +27,7 @@ configuration {
     display-ssh: "";
     display-drun: "";
     display-combi: "";
+    drun-display-format: "{name}";
     kb-remove-word-back: "Control+BackSpace,Alt+d,Alt+BackSpace";
     kb-accept-entry: "Control+m,Return,KP_Enter,Alt+m";
     kb-mode-next: "Shift+Right,Control+Tab,Alt+l,Alt+Tab";
@@ -103,16 +102,11 @@ textbox {
     text-color: @xfg;
 }
 listview {
-    fixed-height: 0;
-    border: 0px;
-    border-color: @x6;
-    spacing: 2px;
-    scrollbar: false;
-    padding: 2px 0px 0px;
+    lines: 11;
 }
 element {
     border: 0;
-    padding: 1px;
+    padding: 5;
 }
 element normal.normal {
     background-color: rgba (0,0,0,0%);
