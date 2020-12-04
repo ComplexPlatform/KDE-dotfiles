@@ -25,6 +25,9 @@ color2 = ${xrdb:color2}
 color3 = ${xrdb:color3}
 color4 = ${xrdb:color4}
 color5 = ${xrdb:color5}
+color6 = ${xrdb:color6}
+color7 = ${xrdb:color7}
+color8 = ${xrdb:color8}
 
 ;  _                    
 ; | |__   __ _ _ __ ___ 
@@ -69,11 +72,11 @@ background = #00000000
 
 [bar/stats]
 inherit = bar/base
-width = 21%
+width = 23%
 ;padding-right = 0
-offset-x = 72.6%
+offset-x = 70.8%
 foreground = ${colors.foreground}
-modules-right = openweathermap cpu memory pulseaudio-control 
+modules-right = openweathermap temperature cpu memory pulseaudio-control 
 background = #00000000
 
 [bar/time]
@@ -131,6 +134,19 @@ label =  %percentage%
 label-foreground = ${colors.foreground} 
 label-padding = 1
 
+[module/temperature]
+type = internal/temperature
+interval = 1
+thermal-zone = 0
+hwmon-path = /sys/devices/pci0000:00/0000:00:18.3/hwmon/hwmon0/temp1_input
+format = <label>
+units = false
+label =  %temperature-c%
+label-warn =  %temperature-c%
+label-foreground = ${colors.foreground} 
+label-padding = 1
+label-warn-padding = 1
+
 [module/kde-virtual-desktops]
 type = custom/script
 exec = ~/.config/polybar/kde-virtual-desktops
@@ -176,7 +192,7 @@ icon-play = 
 icon-pause = 
 icon-next = 
 
-label-song-maxlen = 100
+label-song-maxlen = 80
 label-song-ellipsis = true
 
 [module/time]
